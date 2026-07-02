@@ -1,11 +1,11 @@
 
 cv:
   name: Sara Klaasen
-  label: Postdoctoral researcher
+  # label: Postdoctoral researcher
   email: sara.klaasen@anu.edu.au
   location: Canberra, Australia
-  image: ""
-  summary: I am a geophysicist focusing on data analysis of remote and extreme environments.
+  # image: ""
+  # summary: I am a geophysicist focusing on data analysis of remote and extreme environments.
 
   social_networks:
     - network: GitHub
