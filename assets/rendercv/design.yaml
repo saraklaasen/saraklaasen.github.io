@@ -18,6 +18,7 @@ templates:
     education_entry:
       main_column: |-
         **INSTITUTION**, AREA
+        STUDYTYPE
         SUMMARY
         HIGHLIGHTS
       degree_column: '**DEGREE**'
@@ -43,6 +44,7 @@ templates:
     publication_entry:
       main_column: |-
         **TITLE**
+        PUBLISHER
         AUTHORS
         URL (JOURNAL)
       date_and_location_column: DATE
