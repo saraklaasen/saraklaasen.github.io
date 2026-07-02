@@ -13,12 +13,12 @@ cv:
     - network: LinkedIn
       username: saraklaasen
 
-  address:
-    street: 142 Mills Road
-    city: Acton
-    region: Australian Capital Territory
-    postalCode: 2601
-    countryCode: AU 
+  # address:
+  #   street: 142 Mills Road
+  #   city: Acton
+  #   region: Australian Capital Territory
+  #   postalCode: 2601
+  #   countryCode: AU 
 
   sections:
     Education:
@@ -92,13 +92,13 @@ cv:
     Awards:
       - title: ETH Medal
         date: 2026
-        awarder: ETH Zurich
+        authors: ETH Zurich
         url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
         summary: The ETH Medal is given to outstanding doctoral theses.
 
       - title: OSPA 
         date: 2024
-        awarder: Seismological Society of America Photonics Meeting
+        authors: Seismological Society of America Photonics Meeting
         summary: Outstanding student presentation award
     
     # Grants:
