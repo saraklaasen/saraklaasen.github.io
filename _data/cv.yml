@@ -92,13 +92,13 @@ cv:
     Awards:
       - title: ETH Medal
         date: 2026
-        authors: ETH Zurich
-        url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
+        # authors: ETH Zurich
+        # url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
         summary: The ETH Medal is given to outstanding doctoral theses.
 
       - title: OSPA 
         date: 2024
-        authors: Seismological Society of America Photonics Meeting
+        # authors: Seismological Society of America Photonics Meeting
         summary: Outstanding student presentation award
     
     # Grants:
