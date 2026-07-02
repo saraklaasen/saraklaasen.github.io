@@ -141,19 +141,23 @@ cv:
     Publications:
     # first author publications
       - title: "Submarine seismicity monitoring with distributed acoustic sensing near Santorini and Kolumbo Volcano"
-        authors: Klaasen, Sara and Thrastarson, Solvi and Cubuk-Sabuncu, Yesim and Jónsdóttir, Kristín and Gebraad, Lars and Paitz, Patrick and Fichtner, Andreas
+        authors: 
+          - Klaasen, Sara
+          - Thrastarson, Solvi and Cubuk-Sabuncu, Yesim and Jónsdóttir, Kristín and Gebraad, Lars and Paitz, Patrick and Fichtner, Andreas
         publisher: Seismica
         releaseDate: 2026
         url: https://doi.org/10.26443/seismica.v5i1.1845
       
       - title: "Subglacial volcano monitoring with fibre-optic sensing: Grímsvötn, Iceland"
-        authors: Klaasen, Sara and Thrastarson, Solvi and Cubuk-Sabuncu, Yesim and Jónsdóttir, Kristín and Gebraad, Lars and Paitz, Patrick and Fichtner, Andreas
+        authors: 
+          - Klaasen, Sara and Thrastarson, Solvi and Cubuk-Sabuncu, Yesim and Jónsdóttir, Kristín and Gebraad, Lars and Paitz, Patrick and Fichtner, Andreas
         publisher: "Volcanica"
         releaseDate: 2023
         url: https://doi.org/10.30909/vol.06.02.301311
 
       - title: Distributed acoustic sensing in volcano-glacial environments — Mount Meager, British Columbia
-        authors: Klaasen, Sara and Paitz, Patrick and Lindner, Nadja and Dettmer, Jan and Fichtner, Andreas
+        authors: 
+          - Klaasen, Sara and Paitz, Patrick and Lindner, Nadja and Dettmer, Jan and Fichtner, Andreas
         publisher: "Journal of Geophysical Research: Solid Earth"
         releaseDate: 2021
         url: https://doi.org/10.1029/2021JB022358
