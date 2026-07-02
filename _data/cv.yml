@@ -124,7 +124,7 @@ cv:
         authors:
           - Jousset, Philippe and Currenti, Gilda and Murphy, Shane and Eibl, Eva and Caudron, Corentin and Retailleau, Lise and Wollin, Christopher and Klaasen, Sara and Nishimura, Takeshi and Fichtner, Andreas and Spica, Zack and Lemarchand, Arnaud and Krawczyk, Charlotte
         publisher: Springer
-        releaseDate: 2025
+        date: "2025"
         url: https://doi.org/10.1007/978-3-031-86841-2_17
         summary: Book chapter in Modern Volcano Monitoring
 
@@ -132,7 +132,7 @@ cv:
         authors:
           - Poland, Michael P and de Zeeuw-van Dalfsen, Elske and Aizawa, Koki and Klaasen, Sara and D'Arcy, Fiona and Nicholson, Emma J and Anderson, Kye
         publisher: Elsevier
-        # releaseDate: 2025
+        # date: 2025
         # url: 
         summary: Book chapter submitted to "The encyclopedia of Volcanoes, Third Edition"
 
