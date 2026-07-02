@@ -108,32 +108,33 @@ cv:
         authors: 
           - Swiss National Science Foundation
         date: 2025
-        # url: https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility
+        url: https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility
         summary: A grant to fund a 2-year postdoc position.
 
-    #   - title: VSBfonds grant
-    #     awarder: VSBfonds
-    #     date: 2018
-    #     url: https://www.vsbfonds.nl
-    #     summary: A grant to support a Masters programme abroad.
+      - title: VSBfonds grant
+        authors: 
+          - VSBfonds
+        date: 2018
+        url: https://www.vsbfonds.nl
+        summary: A grant to support a Masters programme abroad.
 
 
-    # Books:
-    #   - title: Fiber optic sensing for volcano monitoring and imaging volcanic processes
-    #     authors:
-    #       - Jousset, Philippe and Currenti, Gilda and Murphy, Shane and Eibl, Eva and Caudron, Corentin and Retailleau, Lise and Wollin, Christopher and Klaasen, Sara and Nishimura, Takeshi and Fichtner, Andreas and Spica, Zack and Lemarchand, Arnaud and Krawczyk, Charlotte
-    #     publisher: Springer
-    #     releaseDate: 2025
-    #     url: https://doi.org/10.1007/978-3-031-86841-2_17
-    #     summary: Book chapter in Modern Volcano Monitoring
+    Books:
+      - title: Fiber optic sensing for volcano monitoring and imaging volcanic processes
+        authors:
+          - Jousset, Philippe and Currenti, Gilda and Murphy, Shane and Eibl, Eva and Caudron, Corentin and Retailleau, Lise and Wollin, Christopher and Klaasen, Sara and Nishimura, Takeshi and Fichtner, Andreas and Spica, Zack and Lemarchand, Arnaud and Krawczyk, Charlotte
+        publisher: Springer
+        releaseDate: 2025
+        url: https://doi.org/10.1007/978-3-031-86841-2_17
+        summary: Book chapter in Modern Volcano Monitoring
 
-    #   - title: "The leading edge of volcanology: Advances and innovations in monitoring and interpreting volcanic activity"
-    #     authors:
-    #       - Poland, Michael P and de Zeeuw-van Dalfsen, Elske and Aizawa, Koki and Klaasen, Sara and D'Arcy, Fiona and Nicholson, Emma J and Anderson, Kye
-    #     publisher: Elsevier
-    #     # releaseDate: 2025
-    #     # url: 
-    #     summary: Book chapter submitted to "The encyclopedia of Volcanoes, Third Edition"
+      - title: "The leading edge of volcanology: Advances and innovations in monitoring and interpreting volcanic activity"
+        authors:
+          - Poland, Michael P and de Zeeuw-van Dalfsen, Elske and Aizawa, Koki and Klaasen, Sara and D'Arcy, Fiona and Nicholson, Emma J and Anderson, Kye
+        publisher: Elsevier
+        # releaseDate: 2025
+        # url: 
+        summary: Book chapter submitted to "The encyclopedia of Volcanoes, Third Edition"
 
      
 
