@@ -1,0 +1,71 @@
+Configuration file: /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_config.yml
+            Source: /Users/saraklaasen/Documents/work/git/saraklaasen.github.io
+       Destination: /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+DEPRECATION WARNING: to_time will always preserve the timezone offset of the receiver in Rails 8.0. To opt in to the new behavior, set `ActiveSupport.to_time_preserves_timezone = true`. (called from load at /Users/saraklaasen/.gem/ruby/3.3.6/bin/jekyll:25)
+Terser: Minifying /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/test/style_contract.js
+Terser: Minifying /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/test/visual/distill.spec.js
+Terser: Minifying /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/test/visual/helpers.js
+Terser: Minifying /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/test/visual/interactions.spec.js
+Terser: Minifying /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/test/visual/parity.spec.js
+Terser: Minifying /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/test/visual/playwright.config.js
+         AutoPages: Disabled/Not configured in site.config.
+        Pagination: Disabled in site.config.
+       Imagemagick: Searching files in /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/assets/img/
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/book_covers/the_godfather-480.webp"
+[31m       Imagemagick: Command returned pid 98172 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/book_covers/the_godfather-800.webp"
+[31m       Imagemagick: Command returned pid 98173 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/book_covers/the_godfather-1400.webp"
+[31m       Imagemagick: Command returned pid 98174 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/linkedin_logo-480.webp"
+[31m       Imagemagick: Command returned pid 98175 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/linkedin_logo-800.webp"
+[31m       Imagemagick: Command returned pid 98176 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/linkedin_logo-1400.webp"
+[31m       Imagemagick: Command returned pid 98177 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/prof_pic-480.webp"
+[31m       Imagemagick: Command returned pid 98179 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/prof_pic-800.webp"
+[31m       Imagemagick: Command returned pid 98180 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/prof_pic-1400.webp"
+[31m       Imagemagick: Command returned pid 98181 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/publication_preview/brownian-motion-480.webp"
+[31m       Imagemagick: Command returned pid 98182 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/publication_preview/brownian-motion-800.webp"
+[31m       Imagemagick: Command returned pid 98183 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/publication_preview/brownian-motion-1400.webp"
+[31m       Imagemagick: Command returned pid 98184 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/publication_preview/wave-mechanics-480.webp"
+[31m       Imagemagick: Command returned pid 98185 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/publication_preview/wave-mechanics-800.webp"
+[31m       Imagemagick: Command returned pid 98186 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/publication_preview/wave-mechanics-1400.webp"
+[31m       Imagemagick: Command returned pid 98187 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/volcano-480.webp"
+[31m       Imagemagick: Command returned pid 98188 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/volcano-800.webp"
+[31m       Imagemagick: Command returned pid 98189 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/volcano-1400.webp"
+[31m       Imagemagick: Command returned pid 98190 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/volcano_2-480.webp"
+[31m       Imagemagick: Command returned pid 98191 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/volcano_2-800.webp"
+[31m       Imagemagick: Command returned pid 98192 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/volcano_2-1400.webp"
+[31m       Imagemagick: Command returned pid 98193 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/volcano_icon-480.webp"
+[31m       Imagemagick: Command returned pid 98194 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/volcano_icon-800.webp"
+[31m       Imagemagick: Command returned pid 98195 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/img/volcano_icon-1400.webp"
+[31m       Imagemagick: Command returned pid 98196 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generated 24 file(s)
+       Jekyll Feed: Generating feed for posts
+        AlImgTools: Successfully copied lightbox2-adapter.css from /Users/saraklaasen/.gem/ruby/3.3.6/gems/al_img_tools-1.0.2/lib/assets/al_img_tools/css/lightbox2-adapter.css to /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/al_img_tools/css/lightbox2-adapter.css
+        AlImgTools: Successfully copied lightbox2-adapter.js from /Users/saraklaasen/.gem/ruby/3.3.6/gems/al_img_tools-1.0.2/lib/assets/al_img_tools/js/lightbox2-adapter.js to /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/al_img_tools/js/lightbox2-adapter.js
+        AlImgTools: Successfully copied venobox-setup.js from /Users/saraklaasen/.gem/ruby/3.3.6/gems/al_img_tools-1.0.2/lib/assets/al_img_tools/js/venobox-setup.js to /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/al_img_tools/js/venobox-setup.js
+        AlImgTools: Successfully copied zoom.js from /Users/saraklaasen/.gem/ruby/3.3.6/gems/al_img_tools-1.0.2/lib/assets/al_img_tools/js/zoom.js to /Users/saraklaasen/Documents/work/git/saraklaasen.github.io/_site/assets/al_img_tools/js/zoom.js
+                    done in 5.881 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
