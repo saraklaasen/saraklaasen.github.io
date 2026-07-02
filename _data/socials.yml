@@ -8,11 +8,20 @@ email: sara.klaasen@anu.edu.au # your email address
 scholar_userid: IXMjpv8AAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo:  /assets/img/orcid.logo.icon.svg # can be png, svg, jpg
-  title: Orcid
-  url: https://orcid.org/0000-0003-4094-7891
-linkedin: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo:  /assets/img/linkedin_logo.png # can be png, svg, jpg
-  title: LinkedIn
-  url: https://www.linkedin.com/in/saraklaasen/
+orcid_id: 0000-0003-4094-7891
+github_username: saraklaasen
+gitlab_username: sklaasen
+linkedin_username: saraklaasen
+
+# orcid: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo:  /assets/img/orcid.logo.icon.svg # can be png, svg, jpg
+#   title: Orcid
+#   url: https://orcid.org/0000-0003-4094-7891
+# linkedin: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo:  /assets/img/linkedin_logo.png # can be png, svg, jpg
+#   title: LinkedIn
+#   url: https://www.linkedin.com/in/saraklaasen/
+# github:
+#   logo:
+#   title: github
+#   url: https://github.com/saraklaasen

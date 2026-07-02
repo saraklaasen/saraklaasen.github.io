@@ -1,115 +1,114 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Sara Klaasen
+  label: Postdoctoral researcher
+  email: sara.klaasen@anu.edu.au
+  location: Canberra, Australia
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: I am a geophysicist focusing on data analysis of remote and extreme environments.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: saraklaasen
     - network: LinkedIn
-      username: example
+      username: saraklaasen
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 142 Mills Road
+    city: Acton
+    region: Australian Capital Territory
+    postalCode: 2601
+    countryCode: AU
 
   sections:
     Education:
-      - institution: University of Zurich
+      - institution: ETH Zurich
         location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+        url: https://www.ethz.ch/
+        area: Geophysics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2020
+        end_date: 2025
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - __Thesis__ distributed acoustic sensing for volcano monitoring
+          - ETH medal
+          # - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
+      - institution: ETH Zurich
         location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        area: Geophysics
+        studyType: Msc
+        start_date: 2018
+        end_date: 2020
         highlights:
-          - Description 1.
-          - Description 2.
+          # - Description 1.
+          # - Description 2.
+
+      - institution: UCR
+        location: Middelburg, Netherlands
+        area: Liberal Arts and Sciences
+        studyType: Bsc
+        start_date: 2014
+        end_date: 2017
+        highlights:
+          - Magna cum Laude
+          - Earth Sciences, biology, mathematics and physics
+          # - Specialized data processing for seismic interferometry in masonry towers
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Research School of Earth Sciences, Australian National University
+        position: Postdoctoral researcher
+        location: Canberra, Australia
+        start_date: 2026
+        end_date: 
+        summary: Researching DAS projects in New Zealand.
         highlights:
-          - Relativity
-          - Description 2.
+          - Imaging Taupo Volcano.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
+      - company: ETH Zurich
+        position: Postdoctoral researcher
         location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+        start_date: 2025
+        end_date: 2026
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+
+
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: ETH Medal
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "ETH Zurich"
+        date: 2026-07-10
+        awarder: ETH Zurich
+        url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
+        summary: The ETH Medal is given to outstanding doctoral theses.
 
-      - title: Max Planck Medal
+      - title: OSPA 
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "SSA photonic seismology meeting"
+        date: 2024
+        awarder: Seismological Society America
+        summary: Outstanding student presentation award at the SSA photonic seismology meeting
+
+    Grants:
+      - title: SNF postdoc.mobility
+        date: 2025
+        url: https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility
+        summary: A grant to fund a 2-year postdoc position.
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -120,6 +119,7 @@ cv:
         url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
         summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
+    # Book publications:
       - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
         authors:
           - Albert Einstein
@@ -143,47 +143,52 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
+      - name: Dutch
+        summary: "native"
       - name: English
-        summary: "Fluent"
+        summary: "C2"
+      - name: German
+        summary: "B2"
+      - name: French
+        summary: "B1"
+
+      
 
     Interests:
-      - name: Physics
+      - name: Geophysics
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "seismology, earthquakes, volcanoes, glaciers, fibre-optic sensing, monitoring"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    # References:
+    #   - name: Professor John Doe
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #   - name: Professor Jane Smith
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.

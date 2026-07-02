@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research interests
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My research interests include, but are not limited to.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+# display_categories: [work, fun]
 horizontal: false
 ---
 
