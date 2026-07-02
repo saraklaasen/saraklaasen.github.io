@@ -145,6 +145,7 @@ cv:
     # first author publications
       - title: "Submarine seismicity monitoring with distributed acoustic sensing near Santorini and Kolumbo Volcano"
         authors: 
+          - Seismica
           - __Sara Klaasen__, Thomas Hudson, Sanchit Sachdeva, Paraskevi Nomikou, Andreas Fichtner
         publisher: Seismica
         date: 2026
