@@ -142,8 +142,7 @@ cv:
     # first author publications
       - title: "Submarine seismicity monitoring with distributed acoustic sensing near Santorini and Kolumbo Volcano"
         authors: 
-          - Klaasen, Sara
-          - Thrastarson, Solvi and Cubuk-Sabuncu, Yesim and Jónsdóttir, Kristín and Gebraad, Lars and Paitz, Patrick and Fichtner, Andreas
+          - __Sara Klaasen__, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristín Jónsdóttir, Lars Gebraad, Patrick Paitz and Andreas Fichtner
         publisher: Seismica
         date: 2026
         url: https://doi.org/10.26443/seismica.v5i1.1845
@@ -163,7 +162,13 @@ cv:
         url: https://doi.org/10.1029/2021JB022358
 
 
-    # # collaborations
+    # collaborations
+      - title: Seismic constraints on glacier density
+        authors: 
+          - Lanteri, Ariane and Keating, Scott and Gebraad, Lars and Klaasen, Sara and Pienkowska-Cote, Marta and Eisen, Olaf and Zunino, Andrea and Jónsdóttir, Kristín and Hofstede, Coen and Zigone, Dimitri and others
+        publisher: "Scientific Reports"
+        date: 2025
+        url: https://doi.org/10.1038/s41598-025-26440-z
 
 
 
