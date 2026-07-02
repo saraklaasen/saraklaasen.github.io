@@ -32,6 +32,7 @@ cv:
         score: ""
         courses: ""
         highlights:
+          - PhD
           - __Thesis__ distributed acoustic sensing for volcano monitoring
           - ETH medal
           # - Description 2.
@@ -43,6 +44,7 @@ cv:
         start_date: 2018
         end_date: 2020
         highlights:
+          - Msc
           # - Description 1.
           # - Description 2.
 
@@ -53,6 +55,7 @@ cv:
         start_date: 2014
         end_date: 2017
         highlights:
+          - Bsc
           - Magna cum Laude
           - Earth Sciences, biology, mathematics and physics
           # - Specialized data processing for seismic interferometry in masonry towers
