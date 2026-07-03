@@ -213,7 +213,8 @@ cv:
 
       - title: "Subglacial volcano monitoring with fibre-optic sensing: Grímsvötn, Iceland"
         authors: 
-          - '*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristín Jónsdóttir, Lars Gebraad, Patrick Paitz, Andreas Fichtner
+          - '*Sara Klaasen*'
+          - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristín Jónsdóttir, Lars Gebraad, Patrick Paitz, Andreas Fichtner
         journal: "Volcanica"
         date: 2023
         url: https://doi.org/10.30909/vol.06.02.301311
@@ -227,7 +228,8 @@ cv:
 
       - title: Distributed acoustic sensing in volcano-glacial environments — Mount Meager, British Columbia
         authors: 
-          - '*Sara Klaasen*', Patrick Paitz, Nadja Lindner, Jan Dettmer, Andreas Fichtner
+          - '*Sara Klaasen*'
+          - Patrick Paitz, Nadja Lindner, Jan Dettmer, Andreas Fichtner
         journal: "Journal of Geophysical Research: Solid Earth"
         date: 2021
         url: https://doi.org/10.1029/2021JB022358
