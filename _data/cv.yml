@@ -76,6 +76,13 @@ cv:
         start_date: 2025
         end_date: 2026
 
+      - company: SRO
+        position: Admin
+        location: Haarlem, Netherlands
+        date: 2017
+        highlights:
+          - Online administration
+
       - company: PZC
         position: Online editor
         location: Vlissingen, Netherlands
