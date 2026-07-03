@@ -25,7 +25,7 @@ cv:
       - institution: ETH Zurich
         location: Zurich, Switzerland
         url: https://doi.org/10.3929/ethz-c-000784882
-        # area: Geophysics
+        area: Geophysics
         degree: PhD
         studyType: PhD
         start_date: 2020
