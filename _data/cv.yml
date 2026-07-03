@@ -407,35 +407,41 @@ cv:
         journal: Invited keynote speaker
         date: 2025
 
-      # - title: Seminar, Stanford University, San Francisco
-      #   authors: ""
-      #   journal: Seminar speaker
-      #   date: 2025
+      - title: Seminar
+        authors:
+          - Stanford University, San Francisco
+        journal: Seminar speaker
+        date: 2025
 
-      # - title: Seminar, University of Washington, online
-      #   authors:
-      #   journal: Seminar speaker
-      #   date: 2024
+      - title: Seminar
+        authors:
+          - University of Washington, online
+        journal: Seminar speaker
+        date: 2024
       
-      # - title: An innovative photonic vision of volcanoes and geothermal systems, SSA Photonic Seismology, Vancouver
-      #   authors:
-      #   journal: Invited speaker
-      #   date: 2024
+      - title: An innovative photonic vision of volcanoes and geothermal systems
+        authors:
+          - SSA Photonic Seismology, Vancouver
+        journal: Invited speaker
+        date: 2024
 
-      # - title: Colloquium, CSIRO, Perth
-      #   authors:
-      #   journal: Seminar speaker
-      #   date: 2023
+      - title: Colloquium
+        authors:
+          - CSIRO, Perth
+        journal: Seminar speaker
+        date: 2023
 
-      # - title: Geophysics Weekly Meeting, Australian National University, Canberra
-      #   authors:
-      #   journal: Seminar speaker
-      #   date: 2023
+      - title: Geophysics Weekly Meeting
+        authors:
+          - Australian National University, Canberra
+        journal: Seminar speaker
+        date: 2023
 
-      # - title: Seminar, University of Canterbury, Christchurch
-      #   authors:
-      #   journal: Seminar speaker
-      #   date: 2023
+      - title: Seminar
+        authors:
+          - University of Canterbury, Christchurch
+        journal: Seminar speaker
+        date: 2023
     
     # Skills:
     #   - name: Physics
