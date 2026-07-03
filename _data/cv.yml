@@ -111,7 +111,7 @@ cv:
       - title: Fiber optic sensing for volcano monitoring and imaging volcanic processes
         authors:
           - Jousset, Philippe and Currenti, Gilda and Murphy, Shane and Eibl, Eva and Caudron, Corentin and Retailleau, Lise and Wollin, Christopher and Klaasen, Sara and Nishimura, Takeshi and Fichtner, Andreas and Spica, Zack and Lemarchand, Arnaud and Krawczyk, Charlotte
-        publisher: Springer
+        journal: Springer
         date: 2025
         url: https://doi.org/10.1007/978-3-031-86841-2_17
         summary: Book chapter in Modern Volcano Monitoring
@@ -119,7 +119,7 @@ cv:
       # - title: "The leading edge of volcanology: Advances and innovations in monitoring and interpreting volcanic activity"
       #   authors:
       #     - Poland, Michael P and de Zeeuw-van Dalfsen, Elske and Aizawa, Koki and Klaasen, Sara and D'Arcy, Fiona and Nicholson, Emma J and Anderson, Kye
-      #   publisher: Elsevier
+      #   journal: Elsevier
       #   # date: 2025
       #   # url: 
       #   summary: Book chapter submitted to "The encyclopedia of Volcanoes, Third Edition"
@@ -141,7 +141,7 @@ cv:
       - title: Seismic constraints on glacier density
         authors: 
           - Ariane Lanteri, Scott Keating, Lars Gebraad, '*Sara Klaasen*', Marta Pienkowska-Cote, Olaf Eisen, Andrea Zunino, Kristín Jónsdóttir, Coen Hofstede, Dimitri Zigone, Andreas Fichtner
-        journal: "Scientific Reports"
+        journal: Scientific Reports
         date: 2025
         url: https://doi.org/10.1038/s41598-025-26440-z
 
@@ -155,7 +155,7 @@ cv:
       - title: "Towards a widely applicable earthquake detection algorithm for fibreoptic and hybrid fibreoptic-seismometer networks"
         authors: 
           - Thomas Hudson, '*Sara Klaasen*', Olivier Fontaine, Conor Bacon, Kristin Jonsdottir, Andreas Fichtner
-        journal: "Geophysical Journal International"
+        journal: Geophysical Journal International
         date: 2025
         url: https://doi.org/10.1093/gji/ggae459
 
@@ -353,6 +353,7 @@ cv:
     
     Talks (invited):
       - title: test
+    
     # Skills:
     #   - name: Physics
     #     level: Master
@@ -371,10 +372,10 @@ cv:
 
       
 
-    Interests:
-      - name: Geophysics
-        icon: fa-solid fa-tag
-        keywords: "seismology, earthquakes, volcanoes, glaciers, fibre-optic sensing, monitoring"
+    # Interests:
+    #   - name: Geophysics
+    #     icon: fa-solid fa-tag
+    #     keywords: "seismology, earthquakes, volcanoes, glaciers, fibre-optic sensing, monitoring"
 
     # Certificates:
     #   - name: Machine Learning
