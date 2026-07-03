@@ -1,11 +1,11 @@
 
 cv:
   name: Sara Klaasen
-  # label: Postdoctoral researcher
+  label: Postdoctoral researcher
   email: sara.klaasen@anu.edu.au
   location: Canberra, Australia
   # image: ""
-  # summary: I am a geophysicist focusing on data analysis of remote and extreme environments.
+  summary: I am a geophysicist focusing on data analysis of remote and extreme environments.
 
   social_networks:
     - network: GitHub
@@ -24,7 +24,7 @@ cv:
     Education:
       - institution: ETH Zurich
         location: Zurich, Switzerland
-        url: https://www.ethz.ch/
+        url: https://doi.org/10.3929/ethz-c-000784882
         area: Geophysics
         studyType: PhD
         start_date: 2020
@@ -78,19 +78,6 @@ cv:
         # highlights:
         #   - Description 1.
         #   - Description 2.
-
-
-
-    # Volunteer:
-    #   - company: People's Climate March
-    #     position: Lead Organizer
-    #     location: Zurich, Switzerland
-    #     start_date: 2014-04-01
-    #     end_date: 2015-07-01
-    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-    #     highlights:
-    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-    #       - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: ETH Medal
