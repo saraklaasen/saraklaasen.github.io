@@ -33,7 +33,7 @@ cv:
         courses: ""
         highlights:
           - PhD
-          - __Thesis__: distributed acoustic sensing for volcano monitoring
+          - "__Thesis__: distributed acoustic sensing for volcano monitoring"
           - ETH medal
           # - Description 2.
 
@@ -96,14 +96,14 @@ cv:
         authors: 
           - Swiss National Science Foundation
         date: 2025
-        url: https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility
+        # url: https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility
         summary: A grant to fund a 2-year postdoc position.
 
       - title: VSBfonds grant
         authors: 
           - VSBfonds
         date: 2018
-        url: https://www.vsbfonds.nl
+        # url: https://www.vsbfonds.nl
         summary: A grant to support a Masters programme abroad.
 
 
