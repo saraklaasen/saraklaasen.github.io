@@ -75,9 +75,15 @@ cv:
         location: Zurich, Switzerland
         start_date: 2025
         end_date: 2026
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
+
+      - company: PZC
+        position: Online editor
+        location: Vlissingen, Netherlands
+        start_date: 2015
+        end_date: 2017
+        highlights:
+          - Online content management of the provincial newspaper
+          - Writing and editing news articles
 
     Awards:
       - title: ETH Medal
@@ -389,18 +395,53 @@ cv:
 
     
     Talks (invited):
-      - title: "Distributed Acoustic Sensing for the Exploration of the Mount Meager Volcanic Complex, British Columbia, Canada"
-        authors: 
-          - Sara Klaasen
-          - Andreas Fichtner, Patrick Paitz, Jan Dettmer
-        journal: AGU Annual Meeting
-        date: 2020
+      - title: Frontiers in Fiber-Optics Sensing in Seismology, IASPEI-IAGA, Lisbon
+        journal: Invited speaker
+        date: 2025
+      
+      - title: ECR Keynote, IAVCEI, Geneva
+        journal: Invited keynote speaker
+        date: 2025
+
+      - title: Seminar, Stanford University, San Francisco
+        journal: Seminar speaker
+        date: 2025
+
+      - title: Seminar, University of Washington, online
+        journal: Seminar speaker
+        date: 2024
+      
+      - title: An innovative photonic vision of volcanoes and geothermal systems, SSA Photonic Seismology, Vancouver
+        journal: Invited speaker
+        date: 2024
+
+      - title: Colloquium, CSIRO, Perth
+        journal: Seminar speaker
+        date: 2023
+
+      - title: Geophysics Weekly Meeting, Australian National University, Canberra
+        journal: Seminar speaker
+        date: 2023
+
+      - title: Seminar, University of Canterbury, Christchurch
+        journal: Seminar speaker
+        date: 2023
     
     # Skills:
     #   - name: Physics
     #     level: Master
     #     icon: fa-solid fa-hashtag
     #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Service:
+      - name: Convening conference sessions
+        # level: Master
+        keywords: IAVCEI, AGU
+
+      - name: Reviewing
+        # level: Master
+        keywords: Seismica, SRL
+
 
     Languages:
       - name: Dutch
