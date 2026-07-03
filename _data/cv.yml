@@ -26,7 +26,8 @@ cv:
         location: Zurich, Switzerland
         url: https://doi.org/10.3929/ethz-c-000784882
         area: Geophysics
-        studyType: PhD
+        # studyType: PhD
+        degree: Phd
         start_date: 2020
         end_date: 2025
         score: ""
@@ -114,17 +115,17 @@ cv:
         authors:
           - Jousset, Philippe and Currenti, Gilda and Murphy, Shane and Eibl, Eva and Caudron, Corentin and Retailleau, Lise and Wollin, Christopher and Klaasen, Sara and Nishimura, Takeshi and Fichtner, Andreas and Spica, Zack and Lemarchand, Arnaud and Krawczyk, Charlotte
         publisher: Springer
-        date: "2025"
+        date: 2025
         url: https://doi.org/10.1007/978-3-031-86841-2_17
         summary: Book chapter in Modern Volcano Monitoring
 
-      - title: "The leading edge of volcanology: Advances and innovations in monitoring and interpreting volcanic activity"
-        authors:
-          - Poland, Michael P and de Zeeuw-van Dalfsen, Elske and Aizawa, Koki and Klaasen, Sara and D'Arcy, Fiona and Nicholson, Emma J and Anderson, Kye
-        publisher: Elsevier
-        # date: 2025
-        # url: 
-        summary: Book chapter submitted to "The encyclopedia of Volcanoes, Third Edition"
+      # - title: "The leading edge of volcanology: Advances and innovations in monitoring and interpreting volcanic activity"
+      #   authors:
+      #     - Poland, Michael P and de Zeeuw-van Dalfsen, Elske and Aizawa, Koki and Klaasen, Sara and D'Arcy, Fiona and Nicholson, Emma J and Anderson, Kye
+      #   publisher: Elsevier
+      #   # date: 2025
+      #   # url: 
+      #   summary: Book chapter submitted to "The encyclopedia of Volcanoes, Third Edition"
 
      
 
@@ -132,11 +133,11 @@ cv:
     # first author publications
       - title: "Submarine seismicity monitoring with distributed acoustic sensing near Santorini and Kolumbo Volcano"
         authors: 
-          - Seismica
-          - __Sara Klaasen__, Thomas Hudson, Sanchit Sachdeva, Paraskevi Nomikou, Andreas Fichtner
-        publisher: Seismica
+          - '*Sara Klaasen*' 
+          - Thomas Hudson, Sanchit Sachdeva, Paraskevi Nomikou, Andreas Fichtner
+        journal: Seismica
         date: 2026
-        url: https://doi.org/10.26443/seismica.v5i1.1845
+        doi: https://doi.org/10.26443/seismica.v5i1.1845
       
       - title: "Subglacial volcano monitoring with fibre-optic sensing: Grímsvötn, Iceland"
         authors: 
