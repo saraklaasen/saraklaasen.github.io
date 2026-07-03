@@ -117,7 +117,7 @@ cv:
           - Corentin Caudron
           - Lise Retailleau
           - Christoper Wollin
-          - '*Sara Klaasen*'
+          - "'*Sara Klaasen*'"
           - Takeshi Nishimura
           - Andreas Fichtner
           - Zack Spica
@@ -142,7 +142,7 @@ cv:
     # first author publications
       - title: "Submarine seismicity monitoring with distributed acoustic sensing near Santorini and Kolumbo Volcano"
         authors: 
-          -'*Sara Klaasen*' 
+          - '*Sara Klaasen*' 
           - Thomas Hudson
           - Sanchit Sachdeva
           - Paraskevi Nomikou
