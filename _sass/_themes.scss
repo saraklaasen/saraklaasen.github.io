@@ -21,6 +21,24 @@ html[data-theme="dark"] {
 }
 
 
+
+
+
+.cv .card .badge.danger-color-dark {
+  color: #fff8f0 !important;
+}
+
+
+.cv .card .list-group-item .badge.danger-color-dark {
+  color: #fff8f0 !important;
+}
+// color: var(--global-card-bg-color);
+
+.badge.danger-color-dark {
+  --global-card-bg-color: #fff8f0;
+}
+
+
 // body {
 //   background-image: url('/assets/img/volcano_2.jpg');
 //   background-size: cover;
