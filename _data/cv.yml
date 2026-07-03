@@ -27,6 +27,7 @@ cv:
         url: https://doi.org/10.3929/ethz-c-000784882
         # area: Geophysics
         degree: PhD
+        studyType: PhD
         start_date: 2020
         end_date: 2025
         score: ""
@@ -35,12 +36,13 @@ cv:
           - PhD
           # - "__Thesis__: distributed acoustic sensing for volcano monitoring"
           - ETH medal
-          # - Description 2.
+
 
       - institution: ETH Zurich
         location: Zurich, Switzerland
         area: Geophysics
         degree: Msc
+        studyType: Msc
         start_date: 2018
         end_date: 2020
         highlights:
@@ -51,6 +53,7 @@ cv:
         location: Middelburg, Netherlands
         area: Liberal Arts and Sciences
         degree: Bsc
+        studyType: Bsc
         start_date: 2014
         end_date: 2017
         highlights:
