@@ -389,7 +389,12 @@ cv:
 
     
     Talks (invited):
-      - title: test
+      - title: "Distributed Acoustic Sensing for the Exploration of the Mount Meager Volcanic Complex, British Columbia, Canada"
+        authors: 
+          - Sara Klaasen
+          - Andreas Fichtner, Patrick Paitz, Jan Dettmer
+        journal: AGU Annual Meeting
+        date: 2020
     
     # Skills:
     #   - name: Physics
