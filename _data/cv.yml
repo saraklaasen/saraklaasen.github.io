@@ -1,6 +1,6 @@
 
 cv:
-  name: '*Sara Klaasen*'
+  name: Sara Klaasen
   # label: Postdoctoral researcher
   email: sara.klaasen@anu.edu.au
   location: Canberra, Australia
@@ -119,7 +119,7 @@ cv:
           - Corentin Caudron
           - Lise Retailleau
           - Christoper Wollin
-          - '*Sara Klaasen*'
+          - Sara Klaasen
           - Takeshi Nishimura
           - Andreas Fichtner
           - Zack Spica
@@ -144,7 +144,7 @@ cv:
     # first author publications
       - title: "Submarine seismicity monitoring with distributed acoustic sensing near Santorini and Kolumbo Volcano"
         authors: 
-          - '*Sara Klaasen*' 
+          - Sara Klaasen 
           - Thomas Hudson
           - Sanchit Sachdeva
           - Paraskevi Nomikou
@@ -157,63 +157,63 @@ cv:
     # collaborations
       - title: Seismic constraints on glacier density
         authors: 
-          - Ariane Lanteri, Scott Keating, Lars Gebraad, '*Sara Klaasen*', Marta Pienkowska-Cote, Olaf Eisen, Andrea Zunino, Kristín Jónsdóttir, Coen Hofstede, Dimitri Zigone, Andreas Fichtner
+          - Ariane Lanteri, Scott Keating, Lars Gebraad, Sara Klaasen, Marta Pienkowska-Cote, Olaf Eisen, Andrea Zunino, Kristín Jónsdóttir, Coen Hofstede, Dimitri Zigone, Andreas Fichtner
         journal: Scientific Reports
         date: 2025
         url: https://doi.org/10.1038/s41598-025-26440-z
 
       - title: The Seismogenic Thickness of Venus
         authors: 
-          - Julia Maia, Ana-Catalina PLesa, Iris van Zelst, Richard Ghail, Anna Gülcher, Mark Panning, Sven Peter Näsholm, Barbara de Toffoli, Anna Horleston, Krystyna Smolinski, '*Sara Klaasen*', Robert Herrick, Raphael Garcia
+          - Julia Maia, Ana-Catalina PLesa, Iris van Zelst, Richard Ghail, Anna Gülcher, Mark Panning, Sven Peter Näsholm, Barbara de Toffoli, Anna Horleston, Krystyna Smolinski, Sara Klaasen, Robert Herrick, Raphael Garcia
         journal: "Journal of Geophysical Research: Planets"
         date: 2025
         url: https://doi.org/10.1038/s41598-025-26440-z
 
       - title: "Towards a widely applicable earthquake detection algorithm for fibreoptic and hybrid fibreoptic-seismometer networks"
         authors: 
-          - Thomas Hudson, '*Sara Klaasen*', Olivier Fontaine, Conor Bacon, Kristin Jonsdottir, Andreas Fichtner
+          - Thomas Hudson, Sara Klaasen, Olivier Fontaine, Conor Bacon, Kristin Jonsdottir, Andreas Fichtner
         journal: Geophysical Journal International
         date: 2025
         url: https://doi.org/10.1093/gji/ggae459
 
       - title: "An illustrated guide to: Distributed and integrated fibre-optic sensing in seismology"
         authors: 
-          - Andreas Fichtner, Fabian Walter, Patrick Paitz, '*Sara Klaasen*', Daniel Bowden, Sebastian Noe, Nils Müller, Dominik Husmann, Jacques Morel
+          - Andreas Fichtner, Fabian Walter, Patrick Paitz, Sara Klaasen, Daniel Bowden, Sebastian Noe, Nils Müller, Dominik Husmann, Jacques Morel
         journal: "Earthquake Sciences"
         date: 2024
         url: https://dx.doi.org/10.1016/j.eqs.2024.09.006
 
       - title: Seismic wave detectability on Venus using ground deformation sensors, infrasound sensors on balloons and airglow imagers
         authors: 
-          - Raphael Garcia, Iris van Zelst, Taichi Kawamura, Sven Peter Näsholm, Anna Horleston, '*Sara Klaasen*', Maxence Lefevre, Celine Marie Solberg, Krystyna Smolinski, Ana-Catalina PLesa, Quentin Brissaud, Julia Maia, Simon Stähler, Philippe Lognonné, Mark Panning, Anna Gülcher, Richard Ghail, Barbara de Toffoli
+          - Raphael Garcia, Iris van Zelst, Taichi Kawamura, Sven Peter Näsholm, Anna Horleston, Sara Klaasen, Maxence Lefevre, Celine Marie Solberg, Krystyna Smolinski, Ana-Catalina PLesa, Quentin Brissaud, Julia Maia, Simon Stähler, Philippe Lognonné, Mark Panning, Anna Gülcher, Richard Ghail, Barbara de Toffoli
         journal: "Earth and Space Science"
         date: 2024
         url: https://doi.org/10.1029/2024EA003670
 
       - title: "Modelling uncertainty in P-wave arrival-times retrieved from DAS data: case-studies from 15 fibre optic cables"
         authors: 
-          - Emanuele Bozzi, Nicola Piana Agostinetti, Andreas Fichtner, '*Sara Klaasen*', Arantza Ugalde, Biondo Biondi, S Yuan, Torsten Dahm, Marius Isken, Patrick Paitz, Fabian Walter, Alain Baird, Carlos Becerril, Takeshi Nishimura, Junzhu Shen, Tieyuan Zhu, Gilberto Saccorotti
+          - Emanuele Bozzi, Nicola Piana Agostinetti, Andreas Fichtner, Sara Klaasen, Arantza Ugalde, Biondo Biondi, S Yuan, Torsten Dahm, Marius Isken, Patrick Paitz, Fabian Walter, Alain Baird, Carlos Becerril, Takeshi Nishimura, Junzhu Shen, Tieyuan Zhu, Gilberto Saccorotti
         journal: "Geophysical Journal International"
         date: 2024
         url: https://doi.org/10.1093/gji/ggae364
 
       - title: "Complex spatial distribution of onset amplitude and waveform correlation: case studies from different DAS experiments"
         authors: 
-          - Emanuele Bozzi, Gilberto Saccorotti, Nicola Piana Agostinetti, Carlos Becerril, Andreas Fichtner, '*Sara Klaasen*', Takeshi Nishimura, Junzhu Shen, Fabian Walter, Tieyuan Zhu
+          - Emanuele Bozzi, Gilberto Saccorotti, Nicola Piana Agostinetti, Carlos Becerril, Andreas Fichtner, Sara Klaasen, Takeshi Nishimura, Junzhu Shen, Fabian Walter, Tieyuan Zhu
         journal: "Bulletin of geophysics and oceanography"
         date: 2024
         url: https://doi.org/10.4430/bgo00458
 
       - title: "Challenges in submarine fiber-optic earthquake monitoring"
         authors: 
-          - Jonas Igel, '*Sara Klaasen*', Sebastian Noe, Paraskevi Nomikou, Konstantinos Korantzalos, Andreas Fichtner
+          - Jonas Igel, Sara Klaasen, Sebastian Noe, Paraskevi Nomikou, Konstantinos Korantzalos, Andreas Fichtner
         journal: "Journal of Geophysical Research: Solid Earth"
         date: 2024
         url: https://doi.org/10.1029/2024JB029556
 
       - title: "Subglacial volcano monitoring with fibre-optic sensing: Grímsvötn, Iceland"
         authors: 
-          - '*Sara Klaasen*'
+          - Sara Klaasen
           - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristín Jónsdóttir, Lars Gebraad, Patrick Paitz, Andreas Fichtner
         journal: "Volcanica"
         date: 2023
@@ -221,14 +221,14 @@ cv:
 
       - title: "Fiber-optic observation of volcanic tremor through floating ice sheet resonance"
         authors: 
-          - Andreas Fichtner, '*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu,Patrick Paitz,  Kristin Jonsdottir
+          - Andreas Fichtner, Sara Klaasen, Solvi Thrastarson, Yesim Cubuk-Sabuncu,Patrick Paitz,  Kristin Jonsdottir
         journal: "The Seismic Record"
         date: 2022
         url: https://doi.org/10.1785/0320220010
 
       - title: Distributed acoustic sensing in volcano-glacial environments — Mount Meager, British Columbia
         authors: 
-          - '*Sara Klaasen*'
+          - Sara Klaasen
           - Patrick Paitz, Nadja Lindner, Jan Dettmer, Andreas Fichtner
         journal: "Journal of Geophysical Research: Solid Earth"
         date: 2021
@@ -236,7 +236,7 @@ cv:
 
       - title: "Detecting Seismic Events with Computer Vision: Applications for Fiber-Optic Sensing"
         authors: 
-          - Solvi Thrastarson, Robert Torfason, '*Sara Klaasen*', Patrick Paitz, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
+          - Solvi Thrastarson, Robert Torfason, Sara Klaasen, Patrick Paitz, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
         journal: "ESS Open Archive"
         date: 2021
         url: https://doi.org/10.1002/essoar.10509693.1
@@ -249,7 +249,7 @@ cv:
     Conference contributions (selected):
       - title: "Full-Waveform Inversion for source and structure of DAS data on a subglacial volcano: Grímsvötn, Iceland"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
         journal: IASPEI-IAGA Scientific Assembly
         date: 2025
@@ -257,7 +257,7 @@ cv:
 
       - title: "The potential of distributed acoustic sensing for volcano monitoring and imaging"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Sebastian Noe, Solvi Thrastarson, Lars Gebraad, Thomas Hudson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Jan Dettmer, Paraskevi Nomikou, Andreas Fichtner
         journal: IAVCEI General Meeting
         date: 2025
@@ -265,35 +265,35 @@ cv:
 
       - title: "Submarine volcano monitoring with Distributed Acoustic Sensing at Kolumbo, Greece"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
         journal: IAVCEI General Meeting
         date: 2025
 
       - title: "Submarine volcano monitoring with Distributed Acoustic Sensing at Kolumbo, Greece"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
         journal: IAVCEI General Meeting
         date: 2025
 
       - title: "Full-Waveform Inversion of DAS data on a subglacial volcano: Grímsvötn, Iceland"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
         journal: IAVCEI General Meeting
         date: 2025
 
       - title: "Submarine volcano monitoring with Distributed Acoustic Sensing at Kolumbo, Greece"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
         journal: SSA General Meeting
         date: 2025
 
       - title: "Fibre-Optic Seismology on Remote, Subglacial, Submarine and Actively-Erupting Volcanoes"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Kristin Jonsdottir, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Lars Gebraad, Andreas Fichtner
         journal: SSA photonic seismology
         date: 2024
@@ -301,77 +301,77 @@ cv:
 
       - title: "Moment Tensor inversion with Full-Waveform Inversion and Distributed Acoustic Sensing on a subglacial volcano: Grímsvötn, Iceland"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
         journal: EGU Copernicus Meetings
         date: 2024
 
       - title: "Submarine volcano monitoring with fiber-optic cables at Santorini"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Paraskevi Nomikou, Konstantinos Karantzalos, Jonas Igel, Andreas Fichtner
         journal: AGU Annual Meeting
         date: 2023
 
       - title: "Going towards Full Waveform Inversion (FWI) with Distributed Acoustic Sensing (DAS) on a subglacial volcano: Grímsvötn, Iceland"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Jonas Igel, Andreas Fichtner
         journal: AGU Annual Meeting
         date: 2023
       
       - title: "Volcano monitoring and modelling using Distributed Acoustic Sensing (DAS) on a subglacial volcano: Grímsvötn, Iceland"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Sebastian Noe, Andreas Fichtner
         journal: IUGG General Assembly
         date: 2023
 
       - title: "Monitoring glacially covered volcanoes with Fibre-Optic Sensing"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
         journal: IAVCEI General Meeting
         date: 2023
 
       - title: "Volcanic Event Characterization with Fiber-Optic Sensing"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
         journal: AGU Annual Meeting
         date: 2022
 
       - title: "Fibre-Optic Sensing for Volcano Monitoring on Grímsvötn, Iceland"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
         journal: EGU General Assembly
         date: 2022
 
       - title: "Distributed Acoustic Sensing on Volcanoes: Grímsvötn and Fagradalsfjall, Iceland"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Solvi Thrastarson, Kristin Jonsdottir, Yesim Cubuk-Sabuncu, Patrick Paitz, Andreas Fichtner
         journal: AGU Annual Meeting
         date: 2021
 
       - title: "Combining Distributed Acoustic Sensing and Beamforming in a Volcanic Environment on Mount Meager, British Columbia"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Patrick Paitz, Jan Dettmer, Andreas Fichtner
         journal: SSA General Meeting
         date: 2021
 
       - title: "Combining Distributed Acoustic Sensing and Beamforming in a Volcanic Environment on Mount Meager, British Columbia"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Patrick Paitz, Jan Dettmer, Andreas Fichtner
         journal: EGU General Assembly
         date: 2021
 
       - title: "Distributed Acoustic Sensing for the Exploration of the Mount Meager Volcanic Complex, British Columbia, Canada"
         authors: 
-          -'*Sara Klaasen*'
+          -Sara Klaasen
           - Andreas Fichtner, Patrick Paitz, Jan Dettmer
         journal: AGU Annual Meeting
         date: 2020
