@@ -130,7 +130,7 @@ cv:
     # first author publications
       - title: "Submarine seismicity monitoring with distributed acoustic sensing near Santorini and Kolumbo Volcano"
         authors: 
-          - '*Sara Klaasen*' 
+          -'*Sara Klaasen*' 
           - Thomas Hudson, Sanchit Sachdeva, Paraskevi Nomikou, Andreas Fichtner
         journal: Seismica
         date: 2026
@@ -196,7 +196,7 @@ cv:
 
       - title: "Subglacial volcano monitoring with fibre-optic sensing: Grímsvötn, Iceland"
         authors: 
-          - __'*Sara Klaasen*'__, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristín Jónsdóttir, Lars Gebraad, Patrick Paitz, Andreas Fichtner
+          -'*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristín Jónsdóttir, Lars Gebraad, Patrick Paitz, Andreas Fichtner
         journal: "Volcanica"
         date: 2023
         url: https://doi.org/10.30909/vol.06.02.301311
@@ -210,7 +210,7 @@ cv:
 
       - title: Distributed acoustic sensing in volcano-glacial environments — Mount Meager, British Columbia
         authors: 
-          - '*Sara Klaasen*', Patrick Paitz, Nadja Lindner, Jan Dettmer, Andreas Fichtner
+          -'*Sara Klaasen*', Patrick Paitz, Nadja Lindner, Jan Dettmer, Andreas Fichtner
         journal: "Journal of Geophysical Research: Solid Earth"
         date: 2021
         url: https://doi.org/10.1029/2021JB022358
@@ -230,112 +230,112 @@ cv:
     Conference contributions (selected):
       - title: "Full-Waveform Inversion for source and structure of DAS data on a subglacial volcano: Grímsvötn, Iceland"
         authors: 
-          - '*Sara Klaasen*', Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
+          -'*Sara Klaasen*', Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
         journal: IASPEI-IAGA Scientific Assembly
         date: 2025
         summary: invited talk
 
       - title: "The potential of distributed acoustic sensing for volcano monitoring and imaging"
         authors: 
-          - '*Sara Klaasen*', Sebastian Noe, Solvi Thrastarson, Lars Gebraad, Thomas Hudson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Jan Dettmer, Paraskevi Nomikou, Andreas Fichtner
+          -'*Sara Klaasen*', Sebastian Noe, Solvi Thrastarson, Lars Gebraad, Thomas Hudson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Jan Dettmer, Paraskevi Nomikou, Andreas Fichtner
         journal: IAVCEI General Meeting
         date: 2025
         summary: Keynote talk
 
       - title: "Submarine volcano monitoring with Distributed Acoustic Sensing at Kolumbo, Greece"
         authors: 
-          - '*Sara Klaasen*', Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
+          -'*Sara Klaasen*', Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
         journal: IAVCEI General Meeting
         date: 2025
 
       - title: "Submarine volcano monitoring with Distributed Acoustic Sensing at Kolumbo, Greece"
         authors: 
-          - '*Sara Klaasen*', Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
+          -'*Sara Klaasen*', Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
         journal: IAVCEI General Meeting
         date: 2025
 
       - title: "Full-Waveform Inversion of DAS data on a subglacial volcano: Grímsvötn, Iceland"
         authors: 
-          - '*Sara Klaasen*', Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
+          -'*Sara Klaasen*', Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
         journal: IAVCEI General Meeting
         date: 2025
 
       - title: "Submarine volcano monitoring with Distributed Acoustic Sensing at Kolumbo, Greece"
         authors: 
-          - '*Sara Klaasen*', Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
+          -'*Sara Klaasen*', Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
         journal: SSA General Meeting
         date: 2025
 
       - title: "Fibre-Optic Seismology on Remote, Subglacial, Submarine and Actively-Erupting Volcanoes"
         authors: 
-          - '*Sara Klaasen*', Kristin Jonsdottir, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Lars Gebraad, Andreas Fichtner
+          -'*Sara Klaasen*', Kristin Jonsdottir, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Lars Gebraad, Andreas Fichtner
         journal: SSA photonic seismology
         date: 2024
         summary: invited talk, outstanding student presentation award
 
       - title: "Moment Tensor inversion with Full-Waveform Inversion and Distributed Acoustic Sensing on a subglacial volcano: Grímsvötn, Iceland"
         authors: 
-          - '*Sara Klaasen*', Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
+          -'*Sara Klaasen*', Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
         journal: EGU Copernicus Meetings
         date: 2024
 
       - title: "Submarine volcano monitoring with fiber-optic cables at Santorini"
         authors: 
-          - '*Sara Klaasen*', Paraskevi Nomikou, Konstantinos Karantzalos, Jonas Igel, Andreas Fichtner
+          -'*Sara Klaasen*', Paraskevi Nomikou, Konstantinos Karantzalos, Jonas Igel, Andreas Fichtner
         journal: AGU Annual Meeting
         date: 2023
 
       - title: "Going towards Full Waveform Inversion (FWI) with Distributed Acoustic Sensing (DAS) on a subglacial volcano: Grímsvötn, Iceland"
         authors: 
-          - '*Sara Klaasen*', Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Jonas Igel, Andreas Fichtner
+          -'*Sara Klaasen*', Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Jonas Igel, Andreas Fichtner
         journal: AGU Annual Meeting
         date: 2023
       
       - title: "Volcano monitoring and modelling using Distributed Acoustic Sensing (DAS) on a subglacial volcano: Grímsvötn, Iceland"
         authors: 
-          - '*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Sebastian Noe, Andreas Fichtner
+          -'*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Sebastian Noe, Andreas Fichtner
         journal: IUGG General Assembly
         date: 2023
 
       - title: "Monitoring glacially covered volcanoes with Fibre-Optic Sensing"
         authors: 
-          - '*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
+          -'*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
         journal: IAVCEI General Meeting
         date: 2023
 
       - title: "Volcanic Event Characterization with Fiber-Optic Sensing"
         authors: 
-          - '*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
+          -'*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
         journal: AGU Annual Meeting
         date: 2022
 
       - title: "Fibre-Optic Sensing for Volcano Monitoring on Grímsvötn, Iceland"
         authors: 
-          - '*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
+          -'*Sara Klaasen*', Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
         journal: EGU General Assembly
         date: 2022
 
       - title: "Distributed Acoustic Sensing on Volcanoes: Grímsvötn and Fagradalsfjall, Iceland"
         authors: 
-          - '*Sara Klaasen*', Solvi Thrastarson, Kristin Jonsdottir, Yesim Cubuk-Sabuncu, Patrick Paitz, Andreas Fichtner
+          -'*Sara Klaasen*', Solvi Thrastarson, Kristin Jonsdottir, Yesim Cubuk-Sabuncu, Patrick Paitz, Andreas Fichtner
         journal: AGU Annual Meeting
         date: 2021
 
       - title: "Combining Distributed Acoustic Sensing and Beamforming in a Volcanic Environment on Mount Meager, British Columbia"
         authors: 
-          - '*Sara Klaasen*', Patrick Paitz, Jan Dettmer, Andreas Fichtner
+          -'*Sara Klaasen*', Patrick Paitz, Jan Dettmer, Andreas Fichtner
         journal: SSA General Meeting
         date: 2021
 
       - title: "Combining Distributed Acoustic Sensing and Beamforming in a Volcanic Environment on Mount Meager, British Columbia"
         authors: 
-          - '*Sara Klaasen*', Patrick Paitz, Jan Dettmer, Andreas Fichtner
+          -'*Sara Klaasen*', Patrick Paitz, Jan Dettmer, Andreas Fichtner
         journal: EGU General Assembly
         date: 2021
 
       - title: "Distributed Acoustic Sensing for the Exploration of the Mount Meager Volcanic Complex, British Columbia, Canada"
         authors: 
-          - '*Sara Klaasen*', Andreas Fichtner, Patrick Paitz, Jan Dettmer
+          -'*Sara Klaasen*', Andreas Fichtner, Patrick Paitz, Jan Dettmer
         journal: AGU Annual Meeting
         date: 2020
       
