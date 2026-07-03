@@ -395,14 +395,15 @@ cv:
 
     
     Talks (invited):
-      - title: Frontiers in Fiber-Optics Sensing in Seismology, IASPEI-IAGA, Lisbon
+      - title: Frontiers in Fiber-Optics Sensing in Seismology
         authors: 
-          - " "
+          - IASPEI-IAGA, Lisbon
         journal: Invited speaker
         date: 2025
       
-      - title: ECR Keynote, IAVCEI, Geneva
-        # authors: ""
+      - title: ECR Keynote
+        authors: 
+          - IAVCEI, Geneva
         journal: Invited keynote speaker
         date: 2025
 
