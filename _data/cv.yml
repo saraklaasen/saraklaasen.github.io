@@ -33,7 +33,7 @@ cv:
         courses: ""
         highlights:
           - PhD
-          - "__Thesis__: distributed acoustic sensing for volcano monitoring"
+          # - "__Thesis__: distributed acoustic sensing for volcano monitoring"
           - ETH medal
           # - Description 2.
 
