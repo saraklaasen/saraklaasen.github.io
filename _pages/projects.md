@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: page
-title: research interests
+title: research projects
 permalink: /projects/
 description: My research interests include, but are not limited to.
 nav: true
@@ -62,4 +62,4 @@ horizontal: false
   </div>
   {% endif %}
 {% endif %}
-</div>
+</div> -->
