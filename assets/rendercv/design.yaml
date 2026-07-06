@@ -1,50 +1,53 @@
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
 design:
   theme: classic
+  colors:
+    name: RGBA(159, 29, 32, 1)
   page:
     size: a4
     show_footer: false
     show_top_note: false
 
 
-# templates: 
-#     footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
-#     top_note: '*LAST_UPDATED CURRENT_DATE*'
-#     single_date: MONTH_ABBREVIATION YEAR
-#     date_range: START_DATE – END_DATE
-#     time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
-#     one_line_entry:
-#       main_column: '**LABEL:** DETAILS'
-#     education_entry:
-#       main_column: |-
-#         **INSTITUTION**, AREA
-#         STUDYTYPE
-#         SUMMARY
-#         HIGHLIGHTS
-#       degree_column: '**DEGREE**'
-#       date_and_location_column: |-
-#         LOCATION
-#         DATE
-#     normal_entry:
-#       main_column: |-
-#         **NAME**
-#         SUMMARY
-#         HIGHLIGHTS
-#       date_and_location_column: |-
-#         LOCATION
-#         DATE
-#     experience_entry:
-#       main_column: |-
-#         **COMPANY**, POSITION
-#         SUMMARY
-#         HIGHLIGHTS
-#       date_and_location_column: |-
-#         LOCATION
-#         DATE
-#     publication_entry:
-#       main_column: |-
-#         **TITLE**
-#         PUBLISHER
-#         AUTHORS
-#         URL (JOURNAL)
-#       date_and_location_column: DATE
+
+templates: 
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        STUDYTYPE
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        PUBLISHER
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE

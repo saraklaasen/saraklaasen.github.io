@@ -81,8 +81,7 @@ cv:
         location: Haarlem, Netherlands
         start_date: 2017
         end_date: 2017
-        highlights:
-          - Online administration
+        summary: Online administration
 
       - company: PZC
         position: Online editor
