@@ -2,7 +2,7 @@
 design:
   theme: classic
   colors:
-    name: RGBA(159, 29, 32, 1)
+    name: rbg(62, 11, 13)
   page:
     size: a4
     show_footer: false
@@ -15,7 +15,7 @@ templates:
     top_note: '*LAST_UPDATED CURRENT_DATE*'
     single_date: MONTH_ABBREVIATION YEAR
     date_range: START_DATE – END_DATE
-    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    # time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
     one_line_entry:
       main_column: '**LABEL:** DETAILS'
     education_entry:
@@ -33,6 +33,7 @@ templates:
         **NAME**
         SUMMARY
         HIGHLIGHTS
+        KEYWORDS
       date_and_location_column: |-
         LOCATION
         DATE
@@ -51,3 +52,11 @@ templates:
         AUTHORS
         URL (JOURNAL)
       date_and_location_column: DATE
+    talks_entry:
+      main_column: |-
+        **TITLE**
+        PUBLISHER
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+    
