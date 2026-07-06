@@ -59,7 +59,7 @@ cv:
           # - Specialized data processing for seismic interferometry in masonry towers
 
     Experience:
-      - company: Research School of Earth Sciences, Australian National University
+      - company: Australian National University
         position: Postdoctoral researcher
         location: Canberra, Australia
         start_date: 2026
@@ -192,7 +192,7 @@ cv:
 
       - title: Seismic wave detectability on Venus using ground deformation sensors, infrasound sensors on balloons and airglow imagers
         authors:
-          - Raphael Garcia, Iris van Zelst, Taichi Kawamura, Sven Peter Näsholm, Anna Horleston, Sara Klaasen, Maxence Lefevre, Celine Marie Solberg, Krystyna Smolinski, Ana-Catalina PLesa, Quentin Brissaud, Julia Maia, Simon Stähler, Philippe Lognonné, Mark Panning, Anna Gülcher, Richard Ghail, Barbara de Toffoli
+          - Raphael Garcia, Iris van Zelst, Taichi Kawamura, Sven Peter Näsholm, Anna Horleston, Sara Klaasen, Maxence Lefevre, Celine Marie Solberg, Krystyna Smolinski, Ana-Catalina Plesa, Quentin Brissaud, Julia Maia, Simon Stähler, Philippe Lognonné, Mark Panning, Anna Gülcher, Richard Ghail, Barbara de Toffoli
         journal: "Earth and Space Science"
         date: 2024
         url: https://doi.org/10.1029/2024EA003670
@@ -228,7 +228,7 @@ cv:
 
       - title: "Fiber-optic observation of volcanic tremor through floating ice sheet resonance"
         authors:
-          - Andreas Fichtner, Sara Klaasen, Solvi Thrastarson, Yesim Cubuk-Sabuncu,Patrick Paitz,  Kristin Jonsdottir
+          - Andreas Fichtner, Sara Klaasen, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Patrick Paitz,  Kristin Jonsdottir
         journal: "The Seismic Record"
         date: 2022
         url: https://doi.org/10.1785/0320220010
@@ -248,29 +248,27 @@ cv:
         date: 2021
         url: https://doi.org/10.1002/essoar.10509693.1
 
+
+
+
+
+
     Conference contributions (selected):
-      - title: "Full-Waveform Inversion for source and structure of DAS data on a subglacial volcano: Grímsvötn, Iceland"
-        authors:
-          - Sara Klaasen
-          - Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
-        journal: IASPEI-IAGA Scientific Assembly
-        date: 2025
-        summary: invited talk
+      # - title: "Full-Waveform Inversion for source and structure of DAS data on a subglacial volcano: Grímsvötn, Iceland"
+      #   authors:
+      #     - Sara Klaasen
+      #     - Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
+      #   journal: IASPEI-IAGA Scientific Assembly
+      #   date: 2025
+      #   summary: invited talk
 
-      - title: "The potential of distributed acoustic sensing for volcano monitoring and imaging"
-        authors:
-          - Sara Klaasen
-          - Sebastian Noe, Solvi Thrastarson, Lars Gebraad, Thomas Hudson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Jan Dettmer, Paraskevi Nomikou, Andreas Fichtner
-        journal: IAVCEI General Meeting
-        date: 2025
-        summary: Keynote talk
-
-      - title: "Submarine volcano monitoring with Distributed Acoustic Sensing at Kolumbo, Greece"
-        authors:
-          - Sara Klaasen
-          - Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
-        journal: IAVCEI General Meeting
-        date: 2025
+      # - title: "The potential of distributed acoustic sensing for volcano monitoring and imaging"
+      #   authors:
+      #     - Sara Klaasen
+      #     - Sebastian Noe, Solvi Thrastarson, Lars Gebraad, Thomas Hudson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Jan Dettmer, Paraskevi Nomikou, Andreas Fichtner
+      #   journal: IAVCEI General Meeting
+      #   date: 2025
+      #   summary: Keynote talk
 
       - title: "Submarine volcano monitoring with Distributed Acoustic Sensing at Kolumbo, Greece"
         authors:
@@ -293,13 +291,13 @@ cv:
         journal: SSA General Meeting
         date: 2025
 
-      - title: "Fibre-Optic Seismology on Remote, Subglacial, Submarine and Actively-Erupting Volcanoes"
-        authors:
-          - Sara Klaasen
-          - Kristin Jonsdottir, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Lars Gebraad, Andreas Fichtner
-        journal: SSA photonic seismology
-        date: 2024
-        summary: invited talk, outstanding student presentation award
+      # - title: "Fibre-Optic Seismology on Remote, Subglacial, Submarine and Actively-Erupting Volcanoes"
+      #   authors:
+      #     - Sara Klaasen
+      #     - Kristin Jonsdottir, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Lars Gebraad, Andreas Fichtner
+      #   journal: SSA photonic seismology
+      #   date: 2024
+      #   summary: invited talk, outstanding student presentation award
 
       - title: "Moment Tensor inversion with Full-Waveform Inversion and Distributed Acoustic Sensing on a subglacial volcano: Grímsvötn, Iceland"
         authors:
@@ -378,14 +376,19 @@ cv:
         journal: AGU Annual Meeting
         date: 2020
 
+
+
+
+
+
     Talks (invited):
-      - title: Frontiers in Fiber-Optics Sensing in Seismology
+      - title: "Session: Frontiers in Fiber-Optics Sensing in Seismology"
         authors:
           - IASPEI-IAGA, Lisbon
         journal: Invited speaker
         date: 2025
 
-      - title: ECR Keynote
+      - title: ECR Keynote talk
         authors:
           - IAVCEI, Geneva
         journal: Invited keynote speaker
@@ -403,7 +406,7 @@ cv:
         journal: Seminar speaker
         date: 2024
 
-      - title: An innovative photonic vision of volcanoes and geothermal systems
+      - title: "Session: An innovative photonic vision of volcanoes and geothermal systems"
         authors:
           - SSA Photonic Seismology, Vancouver
         journal: Invited speaker
