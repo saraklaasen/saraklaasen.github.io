@@ -460,11 +460,11 @@ cv:
       - name: Convening conference sessions
         # level: Master
         summary: IAVCEI, AGU
-        keywords: 
+        keywords: IAVCEI, AGU
 
       - name: Reviewing
         # level: Master
-        summary: ""
+        summary: Seismica, SRL
         keywords: Seismica, SRL
 
 
