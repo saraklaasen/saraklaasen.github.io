@@ -164,56 +164,72 @@ cv:
       # collaborations
       - title: Seismic constraints on glacier density
         authors:
-          - Ariane Lanteri, Scott Keating, Lars Gebraad, "**Sara Klaasen**", Marta Pienkowska-Cote, Olaf Eisen, Andrea Zunino, Kristín Jónsdóttir, Coen Hofstede, Dimitri Zigone, Andreas Fichtner
+          - Ariane Lanteri, Scott Keating, Lars Gebraad
+          - "**Sara Klaasen**"
+          - Marta Pienkowska-Cote, Olaf Eisen, Andrea Zunino, Kristín Jónsdóttir, Coen Hofstede, Dimitri Zigone, Andreas Fichtner
         journal: Scientific Reports
         date: 2025
         url: https://doi.org/10.1038/s41598-025-26440-z
 
       - title: The Seismogenic Thickness of Venus
         authors:
-          - Julia Maia, Ana-Catalina PLesa, Iris van Zelst, Richard Ghail, Anna Gülcher, Mark Panning, Sven Peter Näsholm, Barbara de Toffoli, Anna Horleston, Krystyna Smolinski, "**Sara Klaasen**", Robert Herrick, Raphael Garcia
+          - Julia Maia, Ana-Catalina PLesa, Iris van Zelst, Richard Ghail, Anna Gülcher, Mark Panning, Sven Peter Näsholm, Barbara de Toffoli, Anna Horleston, Krystyna Smolinski
+          - "**Sara Klaasen**"
+          - Robert Herrick, Raphael Garcia
         journal: "Journal of Geophysical Research: Planets"
         date: 2025
         url: https://doi.org/10.1038/s41598-025-26440-z
 
       - title: "Towards a widely applicable earthquake detection algorithm for fibreoptic and hybrid fibreoptic-seismometer networks"
         authors:
-          - Thomas Hudson, "**Sara Klaasen**", Olivier Fontaine, Conor Bacon, Kristin Jonsdottir, Andreas Fichtner
+          - Thomas Hudson
+          - "**Sara Klaasen**"
+          - Olivier Fontaine, Conor Bacon, Kristin Jonsdottir, Andreas Fichtner
         journal: Geophysical Journal International
         date: 2025
         url: https://doi.org/10.1093/gji/ggae459
 
       - title: "An illustrated guide to: Distributed and integrated fibre-optic sensing in seismology"
         authors:
-          - Andreas Fichtner, Fabian Walter, Patrick Paitz, "**Sara Klaasen**", Daniel Bowden, Sebastian Noe, Nils Müller, Dominik Husmann, Jacques Morel
+          - Andreas Fichtner, Fabian Walter, Patrick Paitz
+          - "**Sara Klaasen**"
+          - Daniel Bowden, Sebastian Noe, Nils Müller, Dominik Husmann, Jacques Morel
         journal: "Earthquake Sciences"
         date: 2024
         url: https://dx.doi.org/10.1016/j.eqs.2024.09.006
 
       - title: Seismic wave detectability on Venus using ground deformation sensors, infrasound sensors on balloons and airglow imagers
         authors:
-          - Raphael Garcia, Iris van Zelst, Taichi Kawamura, Sven Peter Näsholm, Anna Horleston, "**Sara Klaasen**", Maxence Lefevre, Celine Marie Solberg, Krystyna Smolinski, Ana-Catalina Plesa, Quentin Brissaud, Julia Maia, Simon Stähler, Philippe Lognonné, Mark Panning, Anna Gülcher, Richard Ghail, Barbara de Toffoli
+          - Raphael Garcia, Iris van Zelst, Taichi Kawamura, Sven Peter Näsholm, Anna Horleston
+          - "**Sara Klaasen**"
+          - Maxence Lefevre, Celine Marie Solberg, Krystyna Smolinski, Ana-Catalina Plesa, Quentin Brissaud, Julia Maia, Simon Stähler, Philippe Lognonné, Mark Panning, Anna Gülcher, Richard Ghail, Barbara de Toffoli
         journal: "Earth and Space Science"
         date: 2024
         url: https://doi.org/10.1029/2024EA003670
 
       - title: "Modelling uncertainty in P-wave arrival-times retrieved from DAS data: case-studies from 15 fibre optic cables"
         authors:
-          - Emanuele Bozzi, Nicola Piana Agostinetti, Andreas Fichtner, "**Sara Klaasen**", Arantza Ugalde, Biondo Biondi, S Yuan, Torsten Dahm, Marius Isken, Patrick Paitz, Fabian Walter, Alain Baird, Carlos Becerril, Takeshi Nishimura, Junzhu Shen, Tieyuan Zhu, Gilberto Saccorotti
+          - Emanuele Bozzi, Nicola Piana Agostinetti, Andreas Fichtner
+          - "**Sara Klaasen**"
+          - Arantza Ugalde, Biondo Biondi, S Yuan, Torsten Dahm, Marius Isken, Patrick Paitz, Fabian Walter, Alain Baird, Carlos Becerril, Takeshi Nishimura, Junzhu Shen, Tieyuan Zhu, Gilberto Saccorotti
         journal: "Geophysical Journal International"
         date: 2024
         url: https://doi.org/10.1093/gji/ggae364
 
       - title: "Complex spatial distribution of onset amplitude and waveform correlation: case studies from different DAS experiments"
         authors:
-          - Emanuele Bozzi, Gilberto Saccorotti, Nicola Piana Agostinetti, Carlos Becerril, Andreas Fichtner, "**Sara Klaasen**", Takeshi Nishimura, Junzhu Shen, Fabian Walter, Tieyuan Zhu
+          - Emanuele Bozzi, Gilberto Saccorotti, Nicola Piana Agostinetti, Carlos Becerril, Andreas Fichtner
+          - "**Sara Klaasen**"
+          - Takeshi Nishimura, Junzhu Shen, Fabian Walter, Tieyuan Zhu
         journal: "Bulletin of geophysics and oceanography"
         date: 2024
         url: https://doi.org/10.4430/bgo00458
 
       - title: "Challenges in submarine fiber-optic earthquake monitoring"
         authors:
-          - Jonas Igel, "**Sara Klaasen**", Sebastian Noe, Paraskevi Nomikou, Konstantinos Korantzalos, Andreas Fichtner
+          - Jonas Igel
+          - "**Sara Klaasen**"
+          - Sebastian Noe, Paraskevi Nomikou, Konstantinos Korantzalos, Andreas Fichtner
         journal: "Journal of Geophysical Research: Solid Earth"
         date: 2024
         url: https://doi.org/10.1029/2024JB029556
@@ -228,7 +244,9 @@ cv:
 
       - title: "Fiber-optic observation of volcanic tremor through floating ice sheet resonance"
         authors:
-          - Andreas Fichtner, "**Sara Klaasen**", Solvi Thrastarson, Yesim Cubuk-Sabuncu, Patrick Paitz,  Kristin Jonsdottir
+          - Andreas Fichtner
+          - "**Sara Klaasen**"
+          - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Patrick Paitz,  Kristin Jonsdottir
         journal: "The Seismic Record"
         date: 2022
         url: https://doi.org/10.1785/0320220010
@@ -243,7 +261,9 @@ cv:
 
       - title: "Detecting Seismic Events with Computer Vision: Applications for Fiber-Optic Sensing"
         authors:
-          - Solvi Thrastarson, Robert Torfason, "**Sara Klaasen**", Patrick Paitz, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
+          - Solvi Thrastarson, Robert Torfason
+          - "**Sara Klaasen**"
+          - Patrick Paitz, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
         journal: "ESS Open Archive"
         date: 2021
         url: https://doi.org/10.1002/essoar.10509693.1
