@@ -2,7 +2,7 @@
 design:
   theme: classic
   colors:
-    name: rbg(62, 11, 13)
+    name: rgb(62, 11, 13)
   page:
     size: a4
     show_footer: false
