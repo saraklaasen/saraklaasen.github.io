@@ -440,6 +440,12 @@ cv:
         journal: Seminar speaker
         date: 2023
 
+      - title: Workshop on Distributed Acoustic Sensing
+        authors:
+          - AGU, online
+        journal: Workshop speaker
+        date: 2021
+
     # Skills:
     #   - name: Physics
     #     level: Master
