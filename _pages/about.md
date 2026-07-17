@@ -6,8 +6,9 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  # image: prof_pic.jpg
+  image: me.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Jaeger 2, 130</p>
     <p>Research School of Earth Sciences</p>
