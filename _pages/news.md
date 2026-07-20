@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 nav: true
 nav_order: 6
-description: News related to the work of Sara Klaasen
+# description: News related to the work of Sara Klaasen
 ---
 
 {% include news.liquid %}

@@ -112,7 +112,8 @@ analytics:
   openpanel: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: google033369a36d07686f.html # your google-site-verification ID (Google Search Console)
+google_site_verification: OePY7BbqZYbgIOJPW69Mhy-lwvhNJNeAw-4F-GPuu14 # your google-site-verification ID (Google Search Console)
+# <meta name="google-site-verification" content="OePY7BbqZYbgIOJPW69Mhy-lwvhNJNeAw-4F-GPuu14" />
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
