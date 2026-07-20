@@ -4,6 +4,7 @@ layout: about
 title: Sara Klaasen
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+description: sara klaasen
 
 profile:
   align: right

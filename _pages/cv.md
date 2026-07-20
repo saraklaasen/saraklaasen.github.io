@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Curriculum vitae
 nav: true
 nav_order: 5
 cv_pdf: /assets/rendercv/rendercv_output/Sara_Klaasen_CV.pdf # you can also use external links here
