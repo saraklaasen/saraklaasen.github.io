@@ -35,4 +35,4 @@ latest_posts:
 I am currently a Postdoctoral Researcher at the Australian National University (ANU). I completed my PhD in Geophysics at ETH Zurich, where I focused on applying Distributed Acoustic Sensing (DAS) to volcano monitoring, earthquake detection, event location, and source characterisation.
 My current research combines fibre-optic sensing and seismic nodal arrays to image and monitor active volcanic systems, including Taupō Volcano in New Zealand.
 
-My research interests include monitoring and imaging complex and hazardous natural systems with cutting-edge data acquisition technologies and advanced computational algorithms. Ultimately, I aim to better understand dynamic natural systems while continuously exploring and developing new approaches to geophysical imaging and monitoring.
+My research interests include monitoring and imaging complex and hazardous natural systems with cutting-edge data acquisition technologies and advanced computational algorithms. Ultimately, I aim to better understand dynamic natural systems while continuously exploring and developing new approaches to geophysical imaging and monitoring. 
