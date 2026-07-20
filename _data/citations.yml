@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-20'
 papers:
   IXMjpv8AAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -62,7 +62,7 @@ papers:
     title: Estimating the seismicity of Venus by scaling Earth's seismicity
     year: '2023'
   IXMjpv8AAAAJ:M3ejUd6NZC8C:
-    citations: 12
+    citations: 13
     title: Seismic wave detectability on Venus using ground deformation sensors, infrasound sensors on balloons and airglow imagers
     year: '2024'
   IXMjpv8AAAAJ:MXK_kJrjxJIC:
@@ -114,7 +114,7 @@ papers:
     title: "Distributed Acoustic Sensing in Volcano-Glacial Environments\u2014Mount Meager, British Columbia"
     year: '2021'
   IXMjpv8AAAAJ:ZeXyd9-uunAC:
-    citations: 10
+    citations: 12
     title: 'Modelling uncertainty in P-wave arrival-times retrieved from DAS data: case-studies from 15 fibre optic cables'
     year: '2024'
   IXMjpv8AAAAJ:Zph67rFs4hoC:
@@ -142,7 +142,7 @@ papers:
     title: "Fiber\u2010optic observation of volcanic tremor through floating ice sheet resonance"
     year: '2022'
   IXMjpv8AAAAJ:dhFuZR0502QC:
-    citations: 16
+    citations: 15
     title: Towards a widely applicable earthquake detection algorithm for fibreoptic and hybrid fibreoptic-seismometer networks
     year: '2025'
   IXMjpv8AAAAJ:eQOLeE2rZwMC:
@@ -182,7 +182,7 @@ papers:
     title: Wave-selective beamforming with distributed acoustic sensing
     year: '2021'
   IXMjpv8AAAAJ:qxL8FJ1GzNcC:
-    citations: 7
+    citations: 8
     title: Fiber optic sensing for volcano monitoring and imaging volcanic processes
     year: '2025'
   IXMjpv8AAAAJ:roLk4NBRz8UC:
