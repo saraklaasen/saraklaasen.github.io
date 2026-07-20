@@ -1,6 +1,7 @@
 ---
+# Sara Klaasen
 layout: about
-title: about
+title: Sara Klaasen
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
