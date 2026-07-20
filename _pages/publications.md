@@ -1,9 +1,10 @@
 ---
 layout: page
-title: publications
+title: Publications
 permalink: /publications/
 nav: true
 nav_order: 2
+description: Publications of Sara Klaasen
 ---
 
 ## Articles
