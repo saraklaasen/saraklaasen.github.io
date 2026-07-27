@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-27'
 papers:
   IXMjpv8AAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -110,7 +110,7 @@ papers:
     title: The quest for quakes on Venus
     year: '2024'
   IXMjpv8AAAAJ:YsMSGLbcyi4C:
-    citations: 105
+    citations: 107
     title: "Distributed Acoustic Sensing in Volcano-Glacial Environments\u2014Mount Meager, British Columbia"
     year: '2021'
   IXMjpv8AAAAJ:ZeXyd9-uunAC:
@@ -142,7 +142,7 @@ papers:
     title: "Fiber\u2010optic observation of volcanic tremor through floating ice sheet resonance"
     year: '2022'
   IXMjpv8AAAAJ:dhFuZR0502QC:
-    citations: 15
+    citations: 18
     title: Towards a widely applicable earthquake detection algorithm for fibreoptic and hybrid fibreoptic-seismometer networks
     year: '2025'
   IXMjpv8AAAAJ:eQOLeE2rZwMC:
