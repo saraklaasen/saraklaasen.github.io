@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-07'
 papers:
   IXMjpv8AAAAJ:-f6ydRqryjwC:
-    citations: 2
+    citations: 3
     title: The seismogenic thickness of Venus
     year: '2025'
   IXMjpv8AAAAJ:0EnyYjriUFMC:
@@ -50,7 +50,7 @@ papers:
     title: Distributed acoustic sensing for volcano monitoring
     year: '2025'
   IXMjpv8AAAAJ:IWHjjKOFINEC:
-    citations: 4
+    citations: 5
     title: Theoretical background for full-waveform inversion with distributed acoustic sensing and integrated strain sensing
     year: '2026'
   IXMjpv8AAAAJ:L8Ckcad2t8MC:
@@ -62,7 +62,7 @@ papers:
     title: Estimating the seismicity of Venus by scaling Earth's seismicity
     year: '2023'
   IXMjpv8AAAAJ:M3ejUd6NZC8C:
-    citations: 13
+    citations: 14
     title: Seismic wave detectability on Venus using ground deformation sensors, infrasound sensors on balloons and airglow imagers
     year: '2024'
   IXMjpv8AAAAJ:MXK_kJrjxJIC:
@@ -78,7 +78,7 @@ papers:
     title: 'Fiber-optic Monitoring of a Volcanic Eruption: Fagradalsfjall, Iceland'
     year: '2022'
   IXMjpv8AAAAJ:TQgYirikUcIC:
-    citations: 2
+    citations: 3
     title: Seismic constraints on glacier density
     year: '2025'
   IXMjpv8AAAAJ:Tyk-4Ss8FVUC:
@@ -110,7 +110,7 @@ papers:
     title: The quest for quakes on Venus
     year: '2024'
   IXMjpv8AAAAJ:YsMSGLbcyi4C:
-    citations: 107
+    citations: 108
     title: "Distributed Acoustic Sensing in Volcano-Glacial Environments\u2014Mount Meager, British Columbia"
     year: '2021'
   IXMjpv8AAAAJ:ZeXyd9-uunAC:
@@ -142,12 +142,12 @@ papers:
     title: "Fiber\u2010optic observation of volcanic tremor through floating ice sheet resonance"
     year: '2022'
   IXMjpv8AAAAJ:dhFuZR0502QC:
-    citations: 18
+    citations: 17
     title: Towards a widely applicable earthquake detection algorithm for fibreoptic and hybrid fibreoptic-seismometer networks
     year: '2025'
   IXMjpv8AAAAJ:eQOLeE2rZwMC:
     citations: 17
-    title: "Sensing Iceland\u2019s most active volcano with a \u201Cburied hair\u201D"
+    title: "Sensing Iceland\u2019s most active volcano with a\u201D buried hair\u201D"
     year: '2022'
   IXMjpv8AAAAJ:hC7cP41nSMkC:
     citations: 0
@@ -182,7 +182,7 @@ papers:
     title: Wave-selective beamforming with distributed acoustic sensing
     year: '2021'
   IXMjpv8AAAAJ:qxL8FJ1GzNcC:
-    citations: 8
+    citations: 11
     title: Fiber optic sensing for volcano monitoring and imaging volcanic processes
     year: '2025'
   IXMjpv8AAAAJ:roLk4NBRz8UC:
