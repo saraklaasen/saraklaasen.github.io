@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-12'
 papers:
   IXMjpv8AAAAJ:-f6ydRqryjwC:
-    citations: 3
+    citations: 4
     title: The seismogenic thickness of Venus
     year: '2025'
   IXMjpv8AAAAJ:0EnyYjriUFMC:
@@ -62,7 +62,7 @@ papers:
     title: Estimating the seismicity of Venus by scaling Earth's seismicity
     year: '2023'
   IXMjpv8AAAAJ:M3ejUd6NZC8C:
-    citations: 14
+    citations: 15
     title: Seismic wave detectability on Venus using ground deformation sensors, infrasound sensors on balloons and airglow imagers
     year: '2024'
   IXMjpv8AAAAJ:MXK_kJrjxJIC:
@@ -142,7 +142,7 @@ papers:
     title: "Fiber\u2010optic observation of volcanic tremor through floating ice sheet resonance"
     year: '2022'
   IXMjpv8AAAAJ:dhFuZR0502QC:
-    citations: 17
+    citations: 18
     title: Towards a widely applicable earthquake detection algorithm for fibreoptic and hybrid fibreoptic-seismometer networks
     year: '2025'
   IXMjpv8AAAAJ:eQOLeE2rZwMC:
