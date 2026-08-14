@@ -113,8 +113,7 @@ analytics:
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: OePY7BbqZYbgIOJPW69Mhy-lwvhNJNeAw-4F-GPuu14 # your google-site-verification ID (Google Search Console)
-# <meta name="google-site-verification" content="OePY7BbqZYbgIOJPW69Mhy-lwvhNJNeAw-4F-GPuu14" />
-bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
+bing_site_verification: AEBC448881D90F28D6234FD5D2D347C8 # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
