@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-07'
 papers:
   IXMjpv8AAAAJ:-f6ydRqryjwC:
-    citations: 4
+    citations: 5
     title: The seismogenic thickness of Venus
     year: '2025'
   IXMjpv8AAAAJ:0EnyYjriUFMC:
@@ -103,14 +103,14 @@ papers:
     year: '2022'
   IXMjpv8AAAAJ:Wp0gIr-vW9MC:
     citations: 6
-    title: 'Complex spatial distribution of onset amplitude and waveform correlation: case studies from different DAS experiments.'
+    title: 'Complex spatial distribution of onset amplitude and waveform correlation: case studies from different DAS experiments'
     year: '2024'
   IXMjpv8AAAAJ:YOwf2qJgpHMC:
     citations: 0
     title: The quest for quakes on Venus
     year: '2024'
   IXMjpv8AAAAJ:YsMSGLbcyi4C:
-    citations: 108
+    citations: 110
     title: "Distributed Acoustic Sensing in Volcano-Glacial Environments\u2014Mount Meager, British Columbia"
     year: '2021'
   IXMjpv8AAAAJ:ZeXyd9-uunAC:
@@ -138,11 +138,11 @@ papers:
     title: "Moment Tensor inversion with Full-Waveform Inversion and Distributed Acoustic Sensing on a subglacial volcano: Gr\xEDmsv\xF6tn, Iceland."
     year: '2024'
   IXMjpv8AAAAJ:d1gkVwhDpl0C:
-    citations: 35
+    citations: 36
     title: "Fiber\u2010optic observation of volcanic tremor through floating ice sheet resonance"
     year: '2022'
   IXMjpv8AAAAJ:dhFuZR0502QC:
-    citations: 18
+    citations: 20
     title: Towards a widely applicable earthquake detection algorithm for fibreoptic and hybrid fibreoptic-seismometer networks
     year: '2025'
   IXMjpv8AAAAJ:eQOLeE2rZwMC:
