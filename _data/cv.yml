@@ -93,39 +93,35 @@ cv:
     Awards:
       - title: ETH Medal
         date: 2026
-        awarder:
+        author:
           - ETH Zurich
-        amount: 2k CHF
         # url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
-        summary: The ETH Medal is given to outstanding doctoral theses.
+        summary: The ETH Medal is given to outstanding doctoral theses (2k CHF).
 
       - title: OSPA
         date: 2024
-        awarder:
+        author:
           - Seismological Society of America Photonics Meeting
         summary: Outstanding student presentation award
 
     Grants:
       - title: SNF postdoc.mobility grant
-        awarder:
+        author:
           - Swiss National Science Foundation
-        amount: 136k CHF
         date: 2025
         # url: https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility
-        summary: Grant to fund a 2-year postdoc position.
+        summary: Grant to fund a 2-year postdoc position (136k CHF)
 
       - title: Women-in-STEM grant
-        amount: 2k CHF
         date: 2021
-        summary: Grant for peer-mentoring group, "Fix the Leaky Pipeline" program, ETH Zürich.
+        summary: Grant for peer-mentoring group, "Fix the Leaky Pipeline" program, ETH Zürich (2k CHF).
 
       - title: VSBfonds grant
-        awarder:
+        author:
           - VSBfonds
-        amount: 10k EUR
         date: 2018
         # url: https://www.vsbfonds.nl
-        summary: Grant to support a Masters programme abroad.
+        summary: Grant to support a Masters programme abroad (10k EUR).
 
     Research collaborations:
       - title: ARC Centre of Excellence in Optical Microcombs for Breakthrough Science (COMBS)
@@ -294,7 +290,7 @@ cv:
         authors:
         - Sara Klaasen
         - Daniel Bowden, Kristin Jonsdottir, Yesim Cubuk-Sabuncu, Jack Maxwell, Meghan Miller, Andreas Fichtner
-        conference: SSA optical seismology and the next era of seismic sensing
+        journal: SSA optical seismology and the next era of seismic sensing
         date: 2026
 
       # - title: "Full-Waveform Inversion for source and structure of DAS data on a subglacial volcano: Grímsvötn, Iceland"
@@ -317,21 +313,21 @@ cv:
         authors:
           - Sara Klaasen
           - Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
-        conference: IAVCEI General Meeting
+        journal: IAVCEI General Meeting
         date: 2025
 
       - title: "Full-Waveform Inversion of DAS data on a subglacial volcano: Grímsvötn, Iceland"
         authors:
           - Sara Klaasen
           - Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Andreas Fichtner
-        conference: IAVCEI General Meeting
+        journal: IAVCEI General Meeting
         date: 2025
 
       - title: "Submarine volcano monitoring with Distributed Acoustic Sensing at Kolumbo, Greece"
         authors:
           - Sara Klaasen
           - Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
-        conference: SSA General Meeting
+        journal: SSA General Meeting
         date: 2025
 
       # - title: "Fibre-Optic Seismology on Remote, Subglacial, Submarine and Actively-Erupting Volcanoes"
@@ -346,77 +342,77 @@ cv:
         authors:
           - Sara Klaasen
           - Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
-        conference: EGU Copernicus Meetings
+        journal: EGU Copernicus Meetings
         date: 2024
 
       - title: "Submarine volcano monitoring with fiber-optic cables at Santorini"
         authors:
           - Sara Klaasen
           - Paraskevi Nomikou, Konstantinos Karantzalos, Jonas Igel, Andreas Fichtner
-        conference: AGU Annual Meeting
+        journal: AGU Annual Meeting
         date: 2023
 
       - title: "Going towards Full Waveform Inversion (FWI) with Distributed Acoustic Sensing (DAS) on a subglacial volcano: Grímsvötn, Iceland"
         authors:
           - Sara Klaasen
           - Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Jonas Igel, Andreas Fichtner
-        conference: AGU Annual Meeting
+        journal: AGU Annual Meeting
         date: 2023
 
       - title: "Volcano monitoring and modelling using Distributed Acoustic Sensing (DAS) on a subglacial volcano: Grímsvötn, Iceland"
         authors:
           - Sara Klaasen
           - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Sebastian Noe, Andreas Fichtner
-        conference: IUGG General Assembly
+        journal: IUGG General Assembly
         date: 2023
 
       - title: "Monitoring glacially covered volcanoes with Fibre-Optic Sensing"
         authors:
           - Sara Klaasen
           - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
-        conference: IAVCEI General Meeting
+        journal: IAVCEI General Meeting
         date: 2023
 
       - title: "Volcanic Event Characterization with Fiber-Optic Sensing"
         authors:
           - Sara Klaasen
           - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
-        conference: AGU Annual Meeting
+        journal: AGU Annual Meeting
         date: 2022
 
       - title: "Fibre-Optic Sensing for Volcano Monitoring on Grímsvötn, Iceland"
         authors:
           - Sara Klaasen
           - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
-        conference: EGU General Assembly
+        journal: EGU General Assembly
         date: 2022
 
       - title: "Distributed Acoustic Sensing on Volcanoes: Grímsvötn and Fagradalsfjall, Iceland"
         authors:
           - Sara Klaasen
           - Solvi Thrastarson, Kristin Jonsdottir, Yesim Cubuk-Sabuncu, Patrick Paitz, Andreas Fichtner
-        conference: AGU Annual Meeting
+        journal: AGU Annual Meeting
         date: 2021
 
       - title: "Combining Distributed Acoustic Sensing and Beamforming in a Volcanic Environment on Mount Meager, British Columbia"
         authors:
           - Sara Klaasen
           - Patrick Paitz, Jan Dettmer, Andreas Fichtner
-        conference: SSA General Meeting
+        journal: SSA General Meeting
         date: 2021
 
       - title: "Combining Distributed Acoustic Sensing and Beamforming in a Volcanic Environment on Mount Meager, British Columbia"
         authors:
           - Sara Klaasen
           - Patrick Paitz, Jan Dettmer, Andreas Fichtner
-        conference: EGU General Assembly
+        journal: EGU General Assembly
         date: 2021
 
       - title: "Distributed Acoustic Sensing for the Exploration of the Mount Meager Volcanic Complex, British Columbia, Canada"
         authors:
           - Sara Klaasen
           - Andreas Fichtner, Patrick Paitz, Jan Dettmer
-        conference: AGU Annual Meeting
+        journal: AGU Annual Meeting
         date: 2020
 
     Talks (invited):
@@ -427,61 +423,61 @@ cv:
 
       - title: Keck observatory workshop
         authors: SSA optical seismology and the next era of seismic sensing, Kona
-        publisher: Workshop speaker
+        journal: Workshop speaker
         date: 2026
 
       - title: "Session: Frontiers in Fiber-Optics Sensing in Seismology"
         authors:
           - IASPEI-IAGA, Lisbon
-        publisher: Invited speaker
+        journal: Invited speaker
         date: 2025
 
       - title: ECR Keynote talk
         authors:
           - IAVCEI, Geneva
-        publisher: Invited keynote speaker
+        journal: Invited keynote speaker
         date: 2025
 
       - title: Seminar
         authors:
           - Stanford University, San Francisco
-        publisher: Seminar speaker
+        journal: Seminar speaker
         date: 2025
 
       - title: Seminar
         authors:
           - University of Washington, online
-        publisher: Seminar speaker
+        journal: Seminar speaker
         date: 2024
 
       - title: "Session: An innovative photonic vision of volcanoes and geothermal systems"
         authors:
           - SSA Photonic Seismology, Vancouver
-        publisher: Invited speaker
+        journal: Invited speaker
         date: 2024
 
       - title: Colloquium
         authors:
           - CSIRO, Perth
-        publisher: Seminar speaker
+        journal: Seminar speaker
         date: 2023
 
       - title: Geophysics Weekly Meeting
         authors:
           - Australian National University, Canberra
-        publisher: Seminar speaker
+        journal: Seminar speaker
         date: 2023
 
       - title: Seminar
         authors:
           - University of Canterbury, Christchurch
-        publisher: Seminar speaker
+        journal: Seminar speaker
         date: 2023
 
       - title: Workshop on Distributed Acoustic Sensing
         authors:
           - AGU, online
-        publisher: Workshop speaker
+        journal: Workshop speaker
         date: 2021
 
     # Skills:
