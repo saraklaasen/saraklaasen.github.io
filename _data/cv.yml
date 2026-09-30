@@ -113,7 +113,7 @@ cv:
         summary: Grant to fund a 2-year postdoc position (136k CHF)
 
       - title: Women-in-STEM grant
-        authors: 
+        authors:
           - Fix the Leaky Pipeline program, ETH Zürich
         date: 2021
         summary: Grant for peer-mentoring group (2k CHF).
@@ -130,14 +130,14 @@ cv:
         start_date: 2026
         end_date: present
         url: https://www.combs.org.au/
-        authors: 
+        authors:
           - Associate investigator
 
       - title: ISSI international team. Seismicity on Venus. Prediction and Detection
         start_date: 2022
         end_date: 2024
         url: https://teams.issibern.ch/seismicityonvenus/
-        authors: 
+        authors:
           - ECR member
 
     Books:
@@ -292,8 +292,8 @@ cv:
     Conference contributions (selected):
       - title: Modelling months of deformation during the Sundhnúkur eruptions on the Reykjanes Peninsula, Iceland
         authors:
-        - Sara Klaasen
-        - Daniel Bowden, Kristin Jonsdottir, Yesim Cubuk-Sabuncu, Jack Maxwell, Meghan Miller, Andreas Fichtner
+          - Sara Klaasen
+          - Daniel Bowden, Kristin Jonsdottir, Yesim Cubuk-Sabuncu, Jack Maxwell, Meghan Miller, Andreas Fichtner
         journal: SSA optical seismology and the next era of seismic sensing
         date: 2026
 
@@ -426,7 +426,7 @@ cv:
       #   journal: Invited speaker
 
       - title: Keck observatory workshop
-        authors: 
+        authors:
           - SSA optical seismology and the next era of seismic sensing, Kona
         journal: Workshop speaker
         date: 2026

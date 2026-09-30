@@ -6,14 +6,11 @@
   {% for entry in entries %}
     <li class="list-group-item">
       <div class="row">
-        
-
         {% capture date_range %}
           {% if entry.start_date %}{{ entry.start_date }}{% endif %}
           {% if entry.end_date %} - {{ entry.end_date }}{% endif %}
           {% if entry.date %}{{ entry.date }}{% endif %}
         {% endcapture %}
-
 
         {% if date_range != '' %}
           <div class="col-xs-2 col-sm-2 col-md-2 text-center">
