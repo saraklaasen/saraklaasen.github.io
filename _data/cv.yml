@@ -130,13 +130,15 @@ cv:
         start_date: 2026
         end_date: present
         url: https://www.combs.org.au/
-        summary: Associate investigator
+        authors: 
+          - Associate investigator
 
       - title: ISSI international team. Seismicity on Venus. Prediction and Detection
         start_date: 2022
         end_date: 2024
         url: https://teams.issibern.ch/seismicityonvenus/
-        summary: ECR member
+        authors: 
+          - ECR member
 
     Books:
       - title: Fiber optic sensing for volcano monitoring and imaging volcanic processes
