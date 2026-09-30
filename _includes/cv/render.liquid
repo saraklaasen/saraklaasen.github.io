@@ -166,6 +166,9 @@
               {% elsif section_title == 'Conference contributions (selected)' %}
                 {% assign entries = section_entries %}
                 {% include cv/conferences.liquid %}
+              {% elsif section_title == 'Research collaborations' %}
+                {% assign entries = section_entries %}
+                {% include cv/research_collaborations.liquid %}
               {% elsif section_title == 'Publications' %}
                 {% assign entries = section_entries %}
                 {% include cv/publications.liquid %}
