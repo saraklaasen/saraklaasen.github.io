@@ -93,14 +93,14 @@ cv:
     Awards:
       - title: ETH Medal
         date: 2026
-        awarder:
+        authors:
           - ETH Zurich
         # url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
         summary: The ETH Medal is given to outstanding doctoral theses (2k CHF).
 
       - title: OSPA
         date: 2024
-        awarder:
+        authors:
           - Seismological Society of America Photonics Meeting
         summary: Outstanding student presentation award
 
@@ -123,18 +123,18 @@ cv:
         # url: https://www.vsbfonds.nl
         summary: Grant to support a Masters programme abroad (10k EUR).
 
-    Research collaborations:
-      - title: ARC Centre of Excellence in Optical Microcombs for Breakthrough Science (COMBS)
-        start_date: 2026
-        end_date: present
-        url: https://www.combs.org.au/
-        summary: Associate investigator
+    # Research collaborations:
+    #   - title: ARC Centre of Excellence in Optical Microcombs for Breakthrough Science (COMBS)
+    #     start_date: 2026
+    #     end_date: present
+    #     url: https://www.combs.org.au/
+    #     summary: Associate investigator
 
-      - title: ISSI international team. Seismicity on Venus. Prediction and Detection
-        start_date: 2022
-        end_date: 2024
-        url: https://teams.issibern.ch/seismicityonvenus/
-        summary: ECR member
+    #   - title: ISSI international team. Seismicity on Venus. Prediction and Detection
+    #     start_date: 2022
+    #     end_date: 2024
+    #     url: https://teams.issibern.ch/seismicityonvenus/
+    #     summary: ECR member
 
     Books:
       - title: Fiber optic sensing for volcano monitoring and imaging volcanic processes
