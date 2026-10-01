@@ -145,12 +145,12 @@ cv:
         summary: International Space Science Institute (ISSI) international team.
 
     Teaching experience:
-      - title: Data Analysis and Visualisation with Python in Earth Sciences
-        start_date: 2022
-        end_date: 2025
-        authors:
-          - Teaching assistant
-        summary: Bachelor course at ETH Zürich
+      # - title: Data Analysis and Visualisation with Python in Earth Sciences
+      #   start_date: 2022
+      #   end_date: 2025
+      #   authors:
+      #     - Teaching assistant
+      #   summary: Bachelor course at ETH Zürich
 
       - title: Geophysical field lab
         start_date: 2021
