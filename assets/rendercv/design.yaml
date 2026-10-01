@@ -14,7 +14,8 @@ design:
     # name: rgb(159, 29, 32) # same dark red as default bright website
     # name:  rgb(159, 29, 32)
   page:
-    size: a4
+    # size: a4
+    size: us-letter
     show_footer: false
     show_top_note: false
 
