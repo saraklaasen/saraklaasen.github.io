@@ -2,8 +2,17 @@
 design:
   theme: classic
   colors:
-    # name: rgb(62, 11, 13) # default blue
-    name: rgb(159, 29, 32) # same dark red as default bright website
+    body: rgb(0, 0, 0)
+    name: rgb(159, 29, 32)
+    headline: rgb(159, 29, 32)
+    connections: rgb(159, 29, 32)
+    section_titles: rgb(159, 29, 32)
+    links: rgb(159, 29, 32)
+    footer: rgb(159, 29, 32)
+    top_note: rgb(159, 29, 32)
+    # name: rgb(62, 11, 13)
+    # name: rgb(159, 29, 32) # same dark red as default bright website
+    # name:  rgb(159, 29, 32)
   page:
     size: a4
     show_footer: false
