@@ -3,7 +3,7 @@ design:
   theme: classic
   colors:
     body: rgb(0, 0, 0)
-    name: rgb(159, 29, 32)
+    name: rgb(0, 0, 0)
     headline: rgb(159, 29, 32)
     connections: rgb(159, 29, 32)
     section_titles: rgb(159, 29, 32)
