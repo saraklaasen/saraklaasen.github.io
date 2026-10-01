@@ -136,12 +136,35 @@ cv:
         authors:
           - Associate investigator
 
-      - title: ISSI international team. Seismicity on Venus. Prediction and Detection
+      - title: "Seismicity on Venus: Prediction and Detection"
         start_date: 2022
         end_date: 2024
         url: https://teams.issibern.ch/seismicityonvenus/
         authors:
           - ECR member
+        summary: International Space Science Institute (ISSI) international team.
+
+    Teaching experience:
+      - title: Data Analysis and Visualisation with Python in Earth Sciences
+        start_date: 2022
+        end_date: 2025
+        authors:
+          - Teaching assistant
+        summary: Bachelor course at ETH Zürich
+
+      - title: Geophysical field lab
+        start_date: 2021
+        end_date: 2023
+        authors:
+          - Teaching assistant
+        summary: Bachelor fieldcourse at ETH Zürich
+
+      - title: Dynamische Erde I
+        start_date: 2020
+        end_date: 2023
+        authors:
+          - Guest lecturer
+        summary: Annual ten minute lectures about current geophysical applications during the Bachelor course at ETH Zürich.
 
     Books:
       - title: Fiber optic sensing for volcano monitoring and imaging volcanic processes
@@ -292,6 +315,99 @@ cv:
         date: 2021
         url: https://doi.org/10.1002/essoar.10509693.1
 
+    Talks (invited):
+      # - title: "Session: Advances and Applications of Distributed Fiber-Optic Sensing for Explosion, Exploration, and Induced Seismicity Monitoring"
+      #   authors: AGU
+      #   date: 2026
+      #   journal: Invited speaker
+
+      - title: Keck observatory workshop
+        authors:
+          - SSA optical seismology and the next era of seismic sensing, Kona
+        journal: Workshop speaker
+        date: 2026
+
+      - title: "Session: Frontiers in Fiber-Optics Sensing in Seismology"
+        authors:
+          - IASPEI-IAGA, Lisbon
+        journal: Invited speaker
+        date: 2025
+
+      - title: ECR Keynote talk
+        authors:
+          - IAVCEI, Geneva
+        journal: Invited keynote speaker
+        date: 2025
+
+      - title: Seminar
+        authors:
+          - Stanford University, San Francisco
+        journal: Seminar speaker
+        date: 2025
+
+      - title: Seminar
+        authors:
+          - University of Washington, online
+        journal: Seminar speaker
+        date: 2024
+
+      - title: "Session: An innovative photonic vision of volcanoes and geothermal systems"
+        authors:
+          - SSA Photonic Seismology, Vancouver
+        journal: Invited speaker
+        date: 2024
+
+      - title: Colloquium
+        authors:
+          - CSIRO, Perth
+        journal: Seminar speaker
+        date: 2023
+
+      - title: Geophysics Weekly Meeting
+        authors:
+          - Australian National University, Canberra
+        journal: Seminar speaker
+        date: 2023
+
+      - title: Seminar
+        authors:
+          - University of Canterbury, Christchurch
+        journal: Seminar speaker
+        date: 2023
+
+      - title: Workshop on Distributed Acoustic Sensing
+        authors:
+          - AGU, online
+        journal: Workshop speaker
+        date: 2021
+
+    # Skills:
+    #   - name: Physics
+    #     level: Master
+    #     icon: fa-solid fa-hashtag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Service:
+      - name: Convening conference sessions
+        # level: Master
+        summary: IAVCEI, AGU
+        keywords: IAVCEI, AGU
+
+      - name: Peer-review
+        # level: Master
+        summary: Seismica, SRL
+        keywords: Seismica, SRL
+
+    Languages:
+      - name: Dutch
+        summary: "native"
+      - name: English
+        summary: "C2"
+      - name: German
+        summary: "B2"
+      - name: French
+        summary: "B1"
+
     Conference contributions (selected):
       - title: Modelling months of deformation during the Sundhnúkur eruptions on the Reykjanes Peninsula, Iceland
         authors:
@@ -421,99 +537,6 @@ cv:
           - Andreas Fichtner, Patrick Paitz, Jan Dettmer
         journal: AGU Annual Meeting
         date: 2020
-
-    Talks (invited):
-      # - title: "Session: Advances and Applications of Distributed Fiber-Optic Sensing for Explosion, Exploration, and Induced Seismicity Monitoring"
-      #   authors: AGU
-      #   date: 2026
-      #   journal: Invited speaker
-
-      - title: Keck observatory workshop
-        authors:
-          - SSA optical seismology and the next era of seismic sensing, Kona
-        journal: Workshop speaker
-        date: 2026
-
-      - title: "Session: Frontiers in Fiber-Optics Sensing in Seismology"
-        authors:
-          - IASPEI-IAGA, Lisbon
-        journal: Invited speaker
-        date: 2025
-
-      - title: ECR Keynote talk
-        authors:
-          - IAVCEI, Geneva
-        journal: Invited keynote speaker
-        date: 2025
-
-      - title: Seminar
-        authors:
-          - Stanford University, San Francisco
-        journal: Seminar speaker
-        date: 2025
-
-      - title: Seminar
-        authors:
-          - University of Washington, online
-        journal: Seminar speaker
-        date: 2024
-
-      - title: "Session: An innovative photonic vision of volcanoes and geothermal systems"
-        authors:
-          - SSA Photonic Seismology, Vancouver
-        journal: Invited speaker
-        date: 2024
-
-      - title: Colloquium
-        authors:
-          - CSIRO, Perth
-        journal: Seminar speaker
-        date: 2023
-
-      - title: Geophysics Weekly Meeting
-        authors:
-          - Australian National University, Canberra
-        journal: Seminar speaker
-        date: 2023
-
-      - title: Seminar
-        authors:
-          - University of Canterbury, Christchurch
-        journal: Seminar speaker
-        date: 2023
-
-      - title: Workshop on Distributed Acoustic Sensing
-        authors:
-          - AGU, online
-        journal: Workshop speaker
-        date: 2021
-
-    # Skills:
-    #   - name: Physics
-    #     level: Master
-    #     icon: fa-solid fa-hashtag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Service:
-      - name: Convening conference sessions
-        # level: Master
-        summary: IAVCEI, AGU
-        keywords: IAVCEI, AGU
-
-      - name: Peer-review
-        # level: Master
-        summary: Seismica, SRL
-        keywords: Seismica, SRL
-
-    Languages:
-      - name: Dutch
-        summary: "native"
-      - name: English
-        summary: "C2"
-      - name: German
-        summary: "B2"
-      - name: French
-        summary: "B1"
 
     # Interests:
     #   - name: Geophysics

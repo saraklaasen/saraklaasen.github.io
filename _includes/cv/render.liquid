@@ -169,6 +169,9 @@
               {% elsif section_title == 'Research collaborations' %}
                 {% assign entries = section_entries %}
                 {% include cv/research_collaborations.liquid %}
+              {% elsif section_title == 'Teaching experience' %}
+                {% assign entries = section_entries %}
+                {% include cv/teaching.liquid %}
               {% elsif section_title == 'Publications' %}
                 {% assign entries = section_entries %}
                 {% include cv/publications.liquid %}

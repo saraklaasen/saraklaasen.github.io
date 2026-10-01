@@ -1,23 +1,25 @@
 {% comment %}
-  Unified awards entry renderer for both formats
+  Unified grants entry renderer for both formats
 {% endcomment %}
 
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% for entry in entries %}
     <li class="list-group-item">
       <div class="row">
-        {% capture start_date %}
+        {% capture date_range %}
+          {% if entry.start_date %}{{ entry.start_date }}{% endif %}
+          {% if entry.end_date %} - {{ entry.end_date }}{% endif %}
           {% if entry.date %}{{ entry.date }}{% endif %}
         {% endcapture %}
 
-        {% if start_date != '' %}
+        {% if date_range != '' %}
           <div class="col-xs-2 col-sm-2 col-md-2 text-center">
             <table class="table-cv">
               <tbody>
                 <tr>
                   <td>
                     <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
-                      {{- start_date | split: '-' | slice: 0, 1 | join: '' -}}
+                      {{ date_range }}
                     </span>
                   </td>
                 </tr>
@@ -34,11 +36,9 @@
             {% endif %}
 
             {% if entry.authors %}
-              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.authors }}</h6>
-            {% endif %}
-
-            {% if entry.amount %}
-              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.amount }}</h6>
+              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
+                {{ entry.authors | join: ', ' }}
+              </h6>
             {% endif %}
 
             {% if entry.summary %}
@@ -56,7 +56,9 @@
             {% endif %}
 
             {% if entry.authors %}
-              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.authors }}</h6>
+              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
+                {{ entry.authors | join: ', ' }}
+              </h6>
             {% endif %}
 
             {% if entry.summary %}
