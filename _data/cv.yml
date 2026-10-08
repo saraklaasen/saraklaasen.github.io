@@ -515,10 +515,10 @@ cv:
         journal: Seminar
         date: 2024
 
-      - title: "Session: An innovative photonic vision of volcanoes and geothermal systems"
+      - title: "An innovative photonic vision of volcanoes and geothermal systems"
         authors:
           - SSA Photonic Seismology, Vancouver
-        journal: Session
+        journal: Conference Session
         date: 2024
 
       - title: Colloquium
@@ -688,7 +688,7 @@ design:
 
   sections:
     allow_page_break: true
-    space_between_regular_entries: 0.7em
+    space_between_regular_entries: 0.5em
     space_between_text_based_entries: 0.1em
     # show_time_spans_in: 
       # - experience
@@ -729,8 +729,7 @@ design:
         DATE
     normal_entry:
       main_column: |-
-        **NAME**
-        SUMMARY
+        NAME, SUMMARY
         HIGHLIGHTS
       date_and_location_column: |-
         LOCATION
