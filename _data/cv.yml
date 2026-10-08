@@ -492,61 +492,71 @@ cv:
 
       - name: Keck observatory workshop
         highlights:
-          - SSA optical seismology and the next era of seismic sensing, Kona
+          - SSA optical seismology and the next era of seismic sensing
+        location: Kona, Hawaii
         summary: Pre-conference workshop
         date: 2026
 
       - name: "Frontiers in Fiber-Optics Sensing in Seismology"
         highlights:
-          - International Association of Seismology and Physics of the Earth's Interior-International Association of Geomagnetism and Aeronomy (IASPEI-IAGA), Lisbon
+          - International Association of Seismology and Physics of the Earth's Interior-International Association of Geomagnetism and Aeronomy (IASPEI-IAGA),
+        location: Lisbon, Portugal
         summary: Conference session
         date: 2025
 
       - name: ECR Keynote talk
         highlights:
-          - IAVCEI, Geneva
+          - IAVCEI
+        location: Geneva, Switzerland
         summary: Conference keynote
         date: 2025
 
       - name: Seminar
         highlights:
-          - Stanford University, San Francisco
+          - Stanford University
+        location: San Francisco, US
         summary: Seminar
         date: 2025
 
       - name: Seminar
         highlights:
-          - University of Washington, online
+          - University of Washington
+        location: online
         summary: Seminar
         date: 2024
 
       - name: "An innovative photonic vision of volcanoes and geothermal systems"
         highlights:
-          - SSA Photonic Seismology, Vancouver
+          - SSA Photonic Seismology
+        location: Vancouver, Canada
         summary: Conference Session
         date: 2024
 
       - name: Colloquium
         highlights:
-          - Commonwealth Scientific and Industrial Research Organisation (CSIRO), Perth
+          - Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+        location: Perth, Australia
         summary: Seminar
         date: 2023
 
       - name: Geophysics Weekly Meeting
         highlights:
-          - Australian National University, Canberra
+          - Australian National University
+        locatoion: Canberra, Australia
         summary: Seminar
         date: 2023
 
       - name: Seminar
         highlights:
-          - University of Canterbury, Christchurch
+          - University of Canterbury
+        location: Christchurch, New Zealand
         summary: Seminar
         date: 2023
 
       - name: Workshop on Distributed Acoustic Sensing
         highlights:
-          - AGU, online
+          - AGU
+        location: online
         summary: Pre-conference workshop
         date: 2021
 
