@@ -486,63 +486,63 @@ cv:
       #   journal: Invited speaker
 
       - name: Keck observatory workshop
-        summary:
+        highlights:
           - SSA optical seismology and the next era of seismic sensing, Kona
-        highlights: Pre-conference workshop
+        summary: Pre-conference workshop
         date: 2026
 
       - name: "Frontiers in Fiber-Optics Sensing in Seismology"
-        summary:
+        highlights:
           - IASPEI-IAGA, Lisbon
-        highlights: Conference session
+        summary: Conference session
         date: 2025
 
       - name: ECR Keynote talk
-        summary:
+        highlights:
           - IAVCEI, Geneva
-        highlights: Conference keynote
+        summary: Conference keynote
         date: 2025
 
       - name: Seminar
-        summary:
+        highlights:
           - Stanford University, San Francisco
-        highlights: Seminar
+        summary: Seminar
         date: 2025
 
       - name: Seminar
-        summary:
+        highlights:
           - University of Washington, online
-        highlights: Seminar
+        summary: Seminar
         date: 2024
 
       - name: "An innovative photonic vision of volcanoes and geothermal systems"
-        summary:
+        highlights:
           - SSA Photonic Seismology, Vancouver
-        highlights: Conference Session
+        summary: Conference Session
         date: 2024
 
       - name: Colloquium
-        summary:
+        highlights:
           - CSIRO, Perth
-        highlights: Seminar
+        summary: Seminar
         date: 2023
 
       - name: Geophysics Weekly Meeting
-        summary:
+        highlights:
           - Australian National University, Canberra
-        highlights: Seminar
+        summary: Seminar
         date: 2023
 
       - name: Seminar
-        summary:
+        highlights:
           - University of Canterbury, Christchurch
-        highlights: Seminar
+        summary: Seminar
         date: 2023
 
       - name: Workshop on Distributed Acoustic Sensing
-        summary:
+        highlights:
           - AGU, online
-        highlights: Pre-conference workshop
+        summary: Pre-conference workshop
         date: 2021
 
     # Skills:
