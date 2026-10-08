@@ -610,7 +610,7 @@ cv:
 
 design:
   # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
-  theme: classic
+  theme: harvard
   colors:
     body: rgb(0, 0, 0)
     name: rgb(0, 0, 0)
