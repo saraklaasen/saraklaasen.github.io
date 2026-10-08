@@ -56,7 +56,7 @@ templates:
       DATE
   publication_entry:
     main_column: |-
-      TITLE
+      **TITLE**
       PUBLISHER
       AUTHORS
       URL (JOURNAL)
