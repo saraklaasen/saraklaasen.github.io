@@ -141,7 +141,7 @@ cv:
         end_date: 2024
         url: https://teams.issibern.ch/seismicityonvenus/
         authors:
-          - ECR member
+          - Early Career Researcher (ECR) member
         summary: International Space Science Institute (ISSI) international team.
 
     Teaching experience:
@@ -342,6 +342,11 @@ cv:
         url: https://doi.org/10.1002/essoar.10509693.1
 
 
+
+
+
+
+
       - title: __FIRST-AUTHOR CONFERENCE PROCEEDINGS__
         authors:
           - " "
@@ -352,7 +357,7 @@ cv:
         authors:
           - __Sara Klaasen__
           - Daniel Bowden, Kristin Jonsdottir, Yesim Cubuk-Sabuncu, Jack Maxwell, Meghan Miller, Andreas Fichtner
-        journal: SSA optical seismology and the next era of seismic sensing
+        journal: Seismological Society of America (SSA) optical seismology and the next era of seismic sensing
         date: 2026
 
       # - title: "Full-Waveform Inversion for source and structure of DAS data on a subglacial volcano: Grímsvötn, Iceland"
@@ -375,7 +380,7 @@ cv:
         authors:
           - __Sara Klaasen__
           - Thomas Hudson, Paraskevi Nomikou, Andreas Fichtner
-        journal: IAVCEI General Meeting
+        journal: International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI) General Meeting
         date: 2025
 
       - title: "Full-Waveform Inversion of DAS data on a subglacial volcano: Grímsvötn, Iceland"
@@ -404,14 +409,14 @@ cv:
         authors:
           - __Sara Klaasen__
           - Sebastian Noe, Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Andreas Fichtner
-        journal: EGU Copernicus Meetings
+        journal: European Geosciences Union (EGU) Copernicus Meetings
         date: 2024
 
       - title: "Submarine volcano monitoring with fiber-optic cables at Santorini"
         authors:
           - __Sara Klaasen__
           - Paraskevi Nomikou, Konstantinos Karantzalos, Jonas Igel, Andreas Fichtner
-        journal: AGU Annual Meeting
+        journal: American Geophysical Union (AGU) Annual Meeting
         date: 2023
 
       - title: "Going towards Full Waveform Inversion (FWI) with Distributed Acoustic Sensing (DAS) on a subglacial volcano: Grímsvötn, Iceland"
@@ -425,7 +430,7 @@ cv:
         authors:
           - __Sara Klaasen__
           - Solvi Thrastarson, Yesim Cubuk-Sabuncu, Kristin Jonsdottir, Lars Gebraad, Sebastian Noe, Andreas Fichtner
-        journal: IUGG General Assembly
+        journal: International Union of Geodesy and Geophysics (IUGG) General Assembly
         date: 2023
 
       - title: "Monitoring glacially covered volcanoes with Fibre-Optic Sensing"
@@ -493,7 +498,7 @@ cv:
 
       - name: "Frontiers in Fiber-Optics Sensing in Seismology"
         highlights:
-          - IASPEI-IAGA, Lisbon
+          - International Association of Seismology and Physics of the Earth's Interior-International Association of Geomagnetism and Aeronomy (IASPEI-IAGA), Lisbon
         summary: Conference session
         date: 2025
 
@@ -523,7 +528,7 @@ cv:
 
       - name: Colloquium
         highlights:
-          - CSIRO, Perth
+          - Commonwealth Scientific and Industrial Research Organisation (CSIRO), Perth
         summary: Seminar
         date: 2023
 
@@ -552,13 +557,13 @@ cv:
     #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Service:
-      - name: "__Convening conference sessions:__"
+      - name: "__Convening conference sessions__"
         # level: Master
         summary: IAVCEI, AGU
 
-      - name: "__Peer-review:__"
+      - name: "__Peer-review__"
         # level: Master
-        summary: Seismica, SRL
+        summary: Seismica, Seismological Research Letters (SRL)
 
     Languages:
       - name: Dutch
