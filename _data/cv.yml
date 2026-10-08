@@ -171,7 +171,7 @@ cv:
     Research Output:
 
     # book chapters
-      - title: Book Chapters
+      - title: __Book Chapters__
         authors:
           - " "
         journal: ""
@@ -211,7 +211,7 @@ cv:
         url: https://doi.org/10.1007/978-3-031-86841-2_17
         summary: Book chapter in Modern Volcano Monitoring
 
-      - title: Journal Articles
+      - title: __Journal Articles__
         authors:
           - " "
         journal: ""
@@ -337,7 +337,7 @@ cv:
         url: https://doi.org/10.1002/essoar.10509693.1
 
 
-      - title: First-Author Conference Proceedings
+      - title: __First-Author Conference Proceedings__
         authors:
           - " "
         journal: ""
@@ -686,7 +686,7 @@ design:
     space_between_regular_entries: 1.2em
     space_between_text_based_entries: 0.3em
     show_time_spans_in: 
-      - experience
+      # - experience
 
   entries:
     date_and_location_width: 4.15cm
@@ -740,7 +740,8 @@ design:
         DATE
     publication_entry:
       main_column: |-
-        **TITLE**
+        TITLE
         AUTHORS
-        URL (JOURNAL)
+        JOURNAL
+        URL
       date_and_location_column: DATE
