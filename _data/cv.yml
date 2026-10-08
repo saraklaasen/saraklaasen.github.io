@@ -36,6 +36,7 @@ cv:
         courses: ""
         highlights:
           # - "__Thesis__: distributed acoustic sensing for volcano monitoring"
+          - Eidgenössische Technische Hochschule Zürich (Swiss Federal Institute of Technology Zurich)
           - ETH medal
 
       - institution: ETH Zurich
@@ -46,10 +47,11 @@ cv:
         start_date: 2018
         end_date: 2020
         highlights:
+          - Eidgenössische Technische Hochschule Zürich (Swiss Federal Institute of Technology Zurich)
           # - Description 1.
           # - Description 2.
 
-      - institution: UCR
+      - institution: University College Roosevelt (UCR)
         location: Middelburg, Netherlands
         area: Liberal Arts and Sciences
         degree: Bsc
@@ -77,14 +79,14 @@ cv:
         start_date: 2025
         end_date: 2026
 
-      - company: SRO
+      - company: Sport, Recreatie en Onderwijsvoorzieningen (SRO)
         position: Admin
         location: Haarlem, Netherlands
         start_date: 2017
         end_date: 2017
         summary: Online administration
 
-      - company: PZC
+      - company: Provinciale Zeeuwse Courant (PZC)
         position: Online editor
         location: Vlissingen, Netherlands
         start_date: 2015
@@ -101,14 +103,13 @@ cv:
         # url: https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html
         summary: The ETH Medal is given to outstanding doctoral theses (2k CHF).
 
-      - title: OSPA
+      - title: Outstanding Student Presentation Award (OSPA)
         date: 2024
         authors:
           - Seismological Society of America Photonics Meeting
-        summary: Outstanding student presentation award
 
     Grants:
-      - title: SNF postdoc.mobility grant
+      - title: Swiss National Science Foundation (SNF) postdoc.mobility grant
         authors:
           - Swiss National Science Foundation
         date: 2025
@@ -129,7 +130,7 @@ cv:
         summary: Grant to support a Masters programme abroad (10k EUR).
 
     Research collaborations:
-      - title: ARC Centre of Excellence in Optical Microcombs for Breakthrough Science (COMBS)
+      - title: Australian Research Council (ARC) Centre of Excellence in Optical Microcombs for Breakthrough Science (COMBS)
         start_date: 2026
         end_date: present
         url: https://www.combs.org.au/
@@ -196,6 +197,8 @@ cv:
         summary: Book chapter submitted to "The encyclopedia of Volcanoes, Third Edition". Chapter has been accepted.
 
     Publications:
+      - title: Journal articles
+        authors: -""
       # first author publications
       - title: "Submarine seismicity monitoring with distributed acoustic sensing near Santorini and Kolumbo Volcano"
         authors:
@@ -208,6 +211,8 @@ cv:
         date: 2026
         url: https://doi.org/10.26443/seismica.v5i1.1845
 
+      - title: Conference Proceedings
+        authors: -""
       # collaborations
       - title: Seismic constraints on glacier density
         authors:
@@ -324,61 +329,61 @@ cv:
       - title: Keck observatory workshop
         authors:
           - SSA optical seismology and the next era of seismic sensing, Kona
-        journal: Workshop speaker
+        journal: Pre-conference workshop
         date: 2026
 
-      - title: "Session: Frontiers in Fiber-Optics Sensing in Seismology"
+      - title: "Frontiers in Fiber-Optics Sensing in Seismology"
         authors:
           - IASPEI-IAGA, Lisbon
-        journal: Invited speaker
+        journal: Conference session
         date: 2025
 
       - title: ECR Keynote talk
         authors:
           - IAVCEI, Geneva
-        journal: Invited keynote speaker
+        journal: Conference keynote
         date: 2025
 
       - title: Seminar
         authors:
           - Stanford University, San Francisco
-        journal: Seminar speaker
+        journal: Seminar
         date: 2025
 
       - title: Seminar
         authors:
           - University of Washington, online
-        journal: Seminar speaker
+        journal: Seminar
         date: 2024
 
       - title: "Session: An innovative photonic vision of volcanoes and geothermal systems"
         authors:
           - SSA Photonic Seismology, Vancouver
-        journal: Invited speaker
+        journal: Session
         date: 2024
 
       - title: Colloquium
         authors:
           - CSIRO, Perth
-        journal: Seminar speaker
+        journal: Seminar
         date: 2023
 
       - title: Geophysics Weekly Meeting
         authors:
           - Australian National University, Canberra
-        journal: Seminar speaker
+        journal: Seminar
         date: 2023
 
       - title: Seminar
         authors:
           - University of Canterbury, Christchurch
-        journal: Seminar speaker
+        journal: Seminar
         date: 2023
 
       - title: Workshop on Distributed Acoustic Sensing
         authors:
           - AGU, online
-        journal: Workshop speaker
+        journal: Pre-conference workshop
         date: 2021
 
     # Skills:
@@ -408,7 +413,7 @@ cv:
       - name: French
         summary: "B1"
 
-    Conference contributions (selected):
+    First-author Conference Proceedings:
       - title: Modelling months of deformation during the Sundhnúkur eruptions on the Reykjanes Peninsula, Iceland
         authors:
           - Sara Klaasen
