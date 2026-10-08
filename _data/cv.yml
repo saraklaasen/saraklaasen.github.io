@@ -485,10 +485,10 @@ cv:
       #   date: 2026
       #   journal: Invited speaker
 
-      - name: Keck observatory workshop
-        summary:
+      - title: Keck observatory workshop
+        authors:
           - SSA optical seismology and the next era of seismic sensing, Kona
-        highlights: Pre-conference workshop
+        journal: Pre-conference workshop
         date: 2026
 
       - title: "Frontiers in Fiber-Optics Sensing in Seismology"
