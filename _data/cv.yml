@@ -485,64 +485,64 @@ cv:
       #   date: 2026
       #   journal: Invited speaker
 
-      - title: Keck observatory workshop
-        authors:
+      - name: Keck observatory workshop
+        summary:
           - SSA optical seismology and the next era of seismic sensing, Kona
-        journal: Pre-conference workshop
+        highlights: Pre-conference workshop
         date: 2026
 
-      - title: "Frontiers in Fiber-Optics Sensing in Seismology"
-        authors:
+      - name: "Frontiers in Fiber-Optics Sensing in Seismology"
+        summary:
           - IASPEI-IAGA, Lisbon
-        journal: Conference session
+        highlights: Conference session
         date: 2025
 
-      - title: ECR Keynote talk
-        authors:
+      - name: ECR Keynote talk
+        summary:
           - IAVCEI, Geneva
-        journal: Conference keynote
+        highlights: Conference keynote
         date: 2025
 
-      - title: Seminar
-        authors:
+      - name: Seminar
+        summary:
           - Stanford University, San Francisco
-        journal: Seminar
+        highlights: Seminar
         date: 2025
 
-      - title: Seminar
-        authors:
+      - name: Seminar
+        summary:
           - University of Washington, online
-        journal: Seminar
+        highlights: Seminar
         date: 2024
 
-      - title: "An innovative photonic vision of volcanoes and geothermal systems"
-        authors:
+      - name: "An innovative photonic vision of volcanoes and geothermal systems"
+        summary:
           - SSA Photonic Seismology, Vancouver
-        journal: Conference Session
+        highlights: Conference Session
         date: 2024
 
-      - title: Colloquium
-        authors:
+      - name: Colloquium
+        summary:
           - CSIRO, Perth
-        journal: Seminar
+        highlights: Seminar
         date: 2023
 
-      - title: Geophysics Weekly Meeting
-        authors:
+      - name: Geophysics Weekly Meeting
+        summary:
           - Australian National University, Canberra
-        journal: Seminar
+        highlights: Seminar
         date: 2023
 
-      - title: Seminar
-        authors:
+      - name: Seminar
+        summary:
           - University of Canterbury, Christchurch
-        journal: Seminar
+        highlights: Seminar
         date: 2023
 
-      - title: Workshop on Distributed Acoustic Sensing
-        authors:
+      - name: Workshop on Distributed Acoustic Sensing
+        summary:
           - AGU, online
-        journal: Pre-conference workshop
+        highlights: Pre-conference workshop
         date: 2021
 
     # Skills:
