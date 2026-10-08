@@ -552,15 +552,13 @@ cv:
     #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Service:
-      - name: Convening conference sessions
+      - name: "__Convening conference sessions:__"
         # level: Master
         summary: IAVCEI, AGU
-        keywords: IAVCEI, AGU
 
-      - name: Peer-review
+      - name: "__Peer-review:__"
         # level: Master
         summary: Seismica, SRL
-        keywords: Seismica, SRL
 
     Languages:
       - name: Dutch
