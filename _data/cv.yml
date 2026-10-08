@@ -167,7 +167,7 @@ cv:
           - Guest lecturer
         summary: Annual ten minute lectures about current geophysical applications during the Bachelor course at ETH Zürich.
 
-    Books:
+    Book Chapters:
       - title: Fiber optic sensing for volcano monitoring and imaging volcanic processes
         authors:
           - Philippe Jousset
@@ -198,7 +198,11 @@ cv:
 
     Publications:
       - title: Journal articles
-        authors: -""
+        authors:
+          - " "
+        journal: ""
+        date: ""
+
       # first author publications
       - title: "Submarine seismicity monitoring with distributed acoustic sensing near Santorini and Kolumbo Volcano"
         authors:
@@ -212,7 +216,11 @@ cv:
         url: https://doi.org/10.26443/seismica.v5i1.1845
 
       - title: Conference Proceedings
-        authors: -""
+        authors:
+          - " "
+        journal: ""
+        date: ""
+
       # collaborations
       - title: Seismic constraints on glacier density
         authors:
