@@ -493,13 +493,13 @@ cv:
       - name: Keck observatory workshop
         highlights:
           - SSA optical seismology and the next era of seismic sensing
-        location: Kona, Hawaii
+        location: Hawaii, United States of America (USA)
         summary: Pre-conference workshop
         date: 2026
 
       - name: "Frontiers in Fiber-Optics Sensing in Seismology"
         highlights:
-          - International Association of Seismology and Physics of the Earth's Interior-International Association of Geomagnetism and Aeronomy (IASPEI-IAGA),
+          - International Association of Seismology and Physics of the Earth's Interior-International Association of Geomagnetism and Aeronomy (IASPEI-IAGA)
         location: Lisbon, Portugal
         summary: Conference session
         date: 2025
@@ -514,7 +514,7 @@ cv:
       - name: Seminar
         highlights:
           - Stanford University
-        location: San Francisco, US
+        location: San Francisco, USA
         summary: Seminar
         date: 2025
 
@@ -542,7 +542,7 @@ cv:
       - name: Geophysics Weekly Meeting
         highlights:
           - Australian National University
-        locatoion: Canberra, Australia
+        location: Canberra, Australia
         summary: Seminar
         date: 2023
 
