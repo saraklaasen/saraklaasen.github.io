@@ -65,6 +65,7 @@ cv:
 
       - institution: Stedelijk Gymnasium Haarlem
         location: Haarlem, Netherlands
+        area: " "
         start_date: 2011
         end_date: 2017
         highlights:
@@ -92,8 +93,8 @@ cv:
         location: Haarlem, Netherlands
         start_date: 2017
         end_date: 2017
-        highlights: 
-        - Online administration of sports facilities in region of Haarlem
+        highlights:
+          - Online administration of sports facilities in region of Haarlem
 
       - company: Provinciale Zeeuwse Courant (PZC)
         position: Online editor
@@ -564,8 +565,8 @@ cv:
       - name: "__Convening conference sessions__"
         # level: Master
         highlights:
-          - IAVCEI
-          - AGU
+          - IAVCEI (2025)
+          - AGU (2023)
 
       - name: "__Peer-review__"
         # level: Master
