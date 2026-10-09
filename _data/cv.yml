@@ -333,7 +333,7 @@ cv:
         date: 2021
         url: https://doi.org/10.1002/essoar.10509693.1
 
-      - title: __FIRST-AUTHOR CONFERENCE PROCEEDINGS__
+      - title: __CONFERENCE PROCEEDINGS__ (as presenting author)
         authors:
           - " "
         journal: ""
@@ -550,14 +550,23 @@ cv:
     #     icon: fa-solid fa-hashtag
     #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Service:
+    Professional Service:
       - name: "__Convening conference sessions__"
         # level: Master
-        summary: IAVCEI, AGU
+        highlights:
+          - IAVCEI
+          - AGU
 
       - name: "__Peer-review__"
         # level: Master
-        summary: Seismica, Seismological Research Letters (SRL)
+        highlights:
+          - Seismica
+          - Seismological Research Letters (SRL)
+
+      - name: "__Workshop organisation__"
+        highlights:
+          - DAS Workshop at Keck Observatory Headquarters 2026
+          - D-ERDW Doctoral Retreat at ETH Zürich 2023
 
     Languages:
       - name: Dutch

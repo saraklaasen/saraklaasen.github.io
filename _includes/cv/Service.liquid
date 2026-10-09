@@ -11,8 +11,8 @@
       <strong>
         {{- entry.name | remove: '__' -}}
       </strong>
-      {% if entry.summary %}
-        : {{ entry.summary | remove: '__' }}
+      {% if entry.highlights %}
+        : {{ entry.highlights | remove: '["' | remove: '"]' | join: ', ' | remove: '"' }}
       {% endif %}
 
       {% if entry.keywords %}
