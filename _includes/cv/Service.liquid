@@ -9,9 +9,12 @@
         <i class="{{ entry.icon }}"></i>
       {% endif %}
       <strong>
-        {{- entry.name -}}
-        {%- if entry.level %} ({{ entry.level }}){% endif %}:</strong
-      >
+        {{- entry.name | remove: '__' -}}
+      </strong>
+      {% if entry.summary %}
+        : {{ entry.summary | remove: '__' }}
+      {% endif %}
+
       {% if entry.keywords %}
         {% for keyword in entry.keywords %}
           {% if forloop.last %}

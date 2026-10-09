@@ -19,6 +19,11 @@
                     <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
                       {{- pub_date | split: '-' | slice: 0, 1 | join: '' -}}
                     </span>
+                    {% if entry.location %}
+                      <div class="mt-1" style="font-size:0.65rem;">
+                        {{ entry.location }}
+                      </div>
+                    {% endif %}
                   </td>
                 </tr>
               </tbody>
@@ -29,8 +34,8 @@
               <h6 class="title font-weight-bold ml-1 ml-md-4">
                 <a href="{{ entry.url }}">{{ entry.title | default: entry.name }}</a>
               </h6>
-            {% elsif entry.title %}
-              <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.title }}</h6>
+            {% elsif entry.name %}
+              <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.title | default: entry.name }}</h6>
             {% endif %}
 
             {% if entry.authors %}
@@ -39,9 +44,9 @@
               </div>
             {% endif %}
 
-            {% if entry.journal %}
+            {% if entry.highlights %}
               <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                <em>{{ entry.journal }}</em>
+                <em>{{ entry.highlights }}</em>
               </h6>
             {% endif %}
 
@@ -55,8 +60,8 @@
               <h6 class="title font-weight-bold ml-1 ml-md-4">
                 <a href="{{ entry.url }}">{{ entry.title | default: entry.name }}</a>
               </h6>
-            {% elsif entry.title %}
-              <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.title }}</h6>
+            {% elsif entry.name %}
+              <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.title | default: entry.name }}</h6>
             {% endif %}
 
             {% if entry.authors %}
