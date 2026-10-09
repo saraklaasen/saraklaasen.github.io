@@ -499,25 +499,22 @@ cv:
         summary: Conference session
         date: 2025
 
-      - name: ECR Keynote talk
+      - name: ECR Conference Keynote talk
         highlights:
           - IAVCEI
         location: Geneva, Switzerland
-        summary: Conference keynote
         date: 2025
 
       - name: Seminar
         highlights:
           - Stanford University
         location: San Francisco, USA
-        summary: Seminar
         date: 2025
 
       - name: Seminar
         highlights:
           - University of Washington
         location: online
-        summary: Seminar
         date: 2024
 
       - name: "An innovative photonic vision of volcanoes and geothermal systems"
@@ -527,25 +524,22 @@ cv:
         summary: Conference Session
         date: 2024
 
-      - name: Colloquium
+      - name: Seminar
         highlights:
           - Commonwealth Scientific and Industrial Research Organisation (CSIRO)
         location: Perth, Australia
-        summary: Seminar
         date: 2023
 
-      - name: Geophysics Weekly Meeting
+      - name: Seminar
         highlights:
           - Australian National University
         location: Canberra, Australia
-        summary: Seminar
         date: 2023
 
       - name: Seminar
         highlights:
           - University of Canterbury
         location: Christchurch, New Zealand
-        summary: Seminar
         date: 2023
 
       - name: Workshop on Distributed Acoustic Sensing
